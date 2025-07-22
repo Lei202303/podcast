@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Mon, 21 Jul 2025 20:37:33 GMT</pubDate>
+    <pubDate>Tue, 22 Jul 2025 15:08:12 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -53,6 +53,16 @@
       <itunes:duration>00:05:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1l8jnq5bCG-arjTqBbWRTxnIyeCnAMt9Q/view" />
+    </item>
+    <item>
+      <title>AI故事时间：解锁未来科技的奇妙力量</title>
+      <description><![CDATA[本期节目带你探索AI的最新奇妙进展！从AI助力深地热能开采，到超大规模AI数据中心的建设，再到AI在科学研究、编程、机器人足球、智能助手和金融医疗等领域的广泛应用。了解AI如何赋能未来，同时探讨其学习与成长中的挑战。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c_jnGeqDKKdjqYtTTGDvxmqOz5QzLd4r" type="audio/mpeg" Length="5396480" />
+      <guid>episode-2025-07-22-1753196660340</guid>
+      <pubDate>Tue, 22 Jul 2025 15:04:20 GMT</pubDate>
+      <itunes:duration>00:05:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1UFoxau2FNfb4JoFBvPCSai5D6t9XL2zg/view" />
     </item>
   </channel>
 </rss>
