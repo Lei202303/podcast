@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Thu, 24 Jul 2025 16:02:56 GMT</pubDate>
+    <pubDate>Fri, 25 Jul 2025 15:49:18 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -93,6 +93,16 @@
       <itunes:duration>00:05:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/19NgsArjO7kmJNbPTjyQrErpcq8Hry2sV/view" />
+    </item>
+    <item>
+      <title>AI未来探险：超级大脑与智能行动派的崛起</title>
+      <description><![CDATA[本期“未来探险家”带你探索AI的最新魔法！我们揭秘阿里巴巴“Qwen”超级AI和GitHub的智能应用工具Spark。了解AI在音乐创作、机器人自学习、工业应用及安全监管方面的突破。AI还在政府、矿业、网络安全和助力小企业全球化中大放异彩。最后展望AI能源需求和人机交互的未来，探讨AI如何持续改变世界。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pQ5Zkq8jW_2NTHlfh20GwCUmLe701fYq" type="audio/mpeg" Length="5248000" />
+      <guid>episode-2025-07-25-1753456103479</guid>
+      <pubDate>Fri, 25 Jul 2025 15:08:23 GMT</pubDate>
+      <itunes:duration>00:05:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1sgahbBSu8QHredWo177ckxyra4h4yDbI/view" />
     </item>
   </channel>
 </rss>
