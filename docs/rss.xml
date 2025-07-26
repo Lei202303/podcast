@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Fri, 25 Jul 2025 15:49:18 GMT</pubDate>
+    <pubDate>Sat, 26 Jul 2025 15:15:38 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -103,6 +103,16 @@
       <itunes:duration>00:05:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1sgahbBSu8QHredWo177ckxyra4h4yDbI/view" />
+    </item>
+    <item>
+      <title>AI魔法世界：智能代理与未来科技大揭秘</title>
+      <description><![CDATA[本期带你探索奇妙AI世界。了解能自主思考、规划任务的“智能代理AI”；拥有“火眼金睛”的智能机器人；以及记忆力更强的AI助手。揭秘谷歌AI如何修复古老拉丁文铭文，和AI在手机拍照、银行等日常应用。解析英伟达、谷歌等科技巨头投资AI的深层原因，展望AI如何助力解决未来挑战。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UAhtFzFN6FpTpCsJKDLurbN72ElSGH7T" type="audio/mpeg" Length="5477376" />
+      <guid>episode-2025-07-26-1753542553879</guid>
+      <pubDate>Sat, 26 Jul 2025 15:09:13 GMT</pubDate>
+      <itunes:duration>00:05:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1tC2_Q35bYcEqXN44r4V5dCHu4qphy1q7/view" />
     </item>
   </channel>
 </rss>
