@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Sat, 26 Jul 2025 15:15:38 GMT</pubDate>
+    <pubDate>Sun, 27 Jul 2025 15:27:22 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -113,6 +113,16 @@
       <itunes:duration>00:05:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1tC2_Q35bYcEqXN44r4V5dCHu4qphy1q7/view" />
+    </item>
+    <item>
+      <title>AI能力升级大作战：智能助手、智慧城市与医疗新突破</title>
+      <description><![CDATA[本期节目带你探索AI世界的最新进展，从更具人性化的智能助手、手腕上的ChatGPT，到NVIDIA的AI大脑升级和谷歌的团队协作框架。AI正变得更善解人意，并在智慧城市和医疗影像诊断中展现强大能力。各大科技巨头正持续推动AI发展，为生活带来无限可能。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17PMiy65n60xL36wBE7a_x-rdvYmhTdRL" type="audio/mpeg" Length="5320704" />
+      <guid>episode-2025-07-27-1753629682213</guid>
+      <pubDate>Sun, 27 Jul 2025 15:21:22 GMT</pubDate>
+      <itunes:duration>00:05:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/19Xh-qzyH0ehJ9Fx0UnnAvrAAl-SOxPby/view" />
     </item>
   </channel>
 </rss>
