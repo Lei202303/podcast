@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Tue, 29 Jul 2025 19:17:18 GMT</pubDate>
+    <pubDate>Wed, 30 Jul 2025 15:11:11 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -143,6 +143,16 @@
       <itunes:duration>00:06:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/17vKfm5uF-YZ5m0CVfxcZN2t3EJMLBLe-/view" />
+    </item>
+    <item>
+      <title>AI超级大脑：探索智能伙伴的奇妙进化</title>
+      <description><![CDATA[节目带你探索AI的最新进展。AI正学习编写代码、智能修复漏洞、解决复杂数学题，并能组队协作。从苹果的视觉理解到清洁能源管理，AI已深入生活。ChatGPT推出学习模式，更有AI隐私保护，预示着AI将成为我们未来不可或缺的智能伙伴。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14O6f9JJJbU1Eor-LEZS4YKCntZTVEDE6" type="audio/mpeg" Length="3420160" />
+      <guid>episode-2025-07-30-1753888008670</guid>
+      <pubDate>Wed, 30 Jul 2025 15:06:48 GMT</pubDate>
+      <itunes:duration>00:03:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1s2AlzzM1jf8qPbIPubJkXOMT8zT0R50x/view" />
     </item>
   </channel>
 </rss>
