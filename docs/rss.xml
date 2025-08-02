@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Fri, 01 Aug 2025 15:11:27 GMT</pubDate>
+    <pubDate>Sat, 02 Aug 2025 15:11:40 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -173,6 +173,16 @@
       <itunes:duration>00:05:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1g9d3P45oLqLQODifSVvrJu8IyMiqb6zd/view" />
+    </item>
+    <item>
+      <title>AI奇妙世界探险：揭秘最新智能科技</title>
+      <description><![CDATA[欢迎探索AI奇妙世界！本期节目聚焦AI最新进展：从无需编程的“无代码”AI，到记录实验的Trackio工具；从开源强大的Deep Cogito v2“AI大脑”，到多代理系统下的AI团队协作；更有为AI打“预防针”确保其安全友好。揭秘AI核心的Transformer模型，共同感受AI的无限潜力和未来发展。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sYIkUFWetKwq2gAfnS4c0wZ26f6TFkou" type="audio/mpeg" Length="4331520" />
+      <guid>episode-2025-08-02-1754147179815</guid>
+      <pubDate>Sat, 02 Aug 2025 15:06:19 GMT</pubDate>
+      <itunes:duration>00:04:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1O6i9skUmRHnPi0u-k9udITJF7RdL7yNN/view" />
     </item>
   </channel>
 </rss>
