@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Sun, 03 Aug 2025 15:12:31 GMT</pubDate>
+    <pubDate>Mon, 04 Aug 2025 15:10:50 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -193,6 +193,16 @@
       <itunes:duration>00:04:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1wCJr2srqJCIjOq4Jn2OaVR6pjNBvhgeC/view" />
+    </item>
+    <item>
+      <title>AI大揭秘：从智能助手到拯救蜜蜂的科技新篇章</title>
+      <description><![CDATA[本期节目带你探索AI在生活中的最新突破。了解AI如何助力律师高效处理法律文件、网站更智能理解用户，以及电商平台Etsy如何利用AI实现精准寻宝。同时，我们将关注AI巨头间的竞争、全球资本对AI的重金投入，并揭秘字节跳动AI如何攻克数学难题。节目还将探讨AI伦理法规的制定，并分享AI拯救蜜蜂的暖心故事，展现AI的无限可能。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1esImqZSnI1iUVhrn_QQhN2gq6FuxK0Cy" type="audio/mpeg" Length="4305920" />
+      <guid>episode-2025-08-04-1754319950350</guid>
+      <pubDate>Mon, 04 Aug 2025 15:05:50 GMT</pubDate>
+      <itunes:duration>00:04:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1GKZ9ALqSVq5pex_81zIrzMju2_E6UIo-/view" />
     </item>
   </channel>
 </rss>
