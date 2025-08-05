@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Mon, 04 Aug 2025 15:10:50 GMT</pubDate>
+    <pubDate>Tue, 05 Aug 2025 15:13:36 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -203,6 +203,16 @@
       <itunes:duration>00:04:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1GKZ9ALqSVq5pex_81zIrzMju2_E6UIo-/view" />
+    </item>
+    <item>
+      <title>AI奇妙世界：超级助手、数字管家与未来展望</title>
+      <description><![CDATA[播报聚焦AI前沿进展：揭秘微软、Meta等巨头如何构建AI“超级训练营”，提升AI能力；探讨AI如何成为律师、税务专家的高效助手，并担任您的数字管家；介绍谷歌AI的“超级侦探”能力及AI团队协作模式；还分析了AI在网络安全中的作用，以及OpenAI的通用人工智能（AGI）愿景。最后强调了AI领域正吸引大量投资，预示着其在未来的广阔前景和对生活的深远改变。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17642EMK089GuOVQZnS_wFTrgMtmDi70r" type="audio/mpeg" Length="5022720" />
+      <guid>episode-2025-08-05-1754406393300</guid>
+      <pubDate>Tue, 05 Aug 2025 15:06:33 GMT</pubDate>
+      <itunes:duration>00:05:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/188UIdRIw_72blwEYcCBeAJze7_qGDYFn/view" />
     </item>
   </channel>
 </rss>
