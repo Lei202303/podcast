@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Wed, 06 Aug 2025 15:13:31 GMT</pubDate>
+    <pubDate>Thu, 07 Aug 2025 15:12:57 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -223,6 +223,16 @@
       <itunes:duration>00:05:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1leBcswLGwML0pNoVNeIhQqI-1VyyubTJ/view" />
+    </item>
+    <item>
+      <title>探索AI的奇妙世界：自我进化与应用前瞻</title>
+      <description><![CDATA[本期探索AI的奇妙世界。从AI的自我学习（如Meta的AI能设计芯片、创造学习材料），到生成式AI的创作（OpenAI的GPT-5将更强大），再到AI在法律、医学领域的实际应用，深入剖析其发展。提醒听众在使用AI时保持独立思考。内容也提及AI训练所需数据和巨头公司的投资热潮。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eBeHrdOItKiuRmQjl7zNW9bBBcndhLs3" type="audio/mpeg" Length="4968448" />
+      <guid>episode-2025-08-07-1754579257816</guid>
+      <pubDate>Thu, 07 Aug 2025 15:07:37 GMT</pubDate>
+      <itunes:duration>00:05:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1slndpsZdRNXXg3VN7_YFCHdtstS7CogL/view" />
     </item>
   </channel>
 </rss>
