@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Sat, 09 Aug 2025 15:08:26 GMT</pubDate>
+    <pubDate>Sat, 09 Aug 2025 15:46:03 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -253,6 +253,16 @@
       <itunes:duration>00:03:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1u0EjWCxWwOL9fM07bxLcqtUV01Kl8Tym/view" />
+    </item>
+    <item>
+      <title>AI世界新进展：从智能机器人到超级大脑</title>
+      <description><![CDATA[本期节目带你探索AI世界的最新进展。从能自主完成任务的智能无人机和机器人（如大韩航空、谷歌虚拟仓库），到智慧超群的大语言模型（如“博士级”GPT-5和阿里巴巴的“迷你”模型）。AI正通过“专家团队”协作，在各领域大放异彩。AI发展迅猛，人类应学会与AI协作，共同创造更精彩的未来。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AVHEbPB0FLGIMfkmVAgeoyCijnlg01FA" type="audio/mpeg" Length="5217280" />
+      <guid>episode-2025-08-09-1754754346250</guid>
+      <pubDate>Sat, 09 Aug 2025 15:45:46 GMT</pubDate>
+      <itunes:duration>00:05:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1nNY3ESnex228ssVG0bz_OtEg213fgdHC/view" />
     </item>
   </channel>
 </rss>
