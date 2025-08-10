@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Sat, 09 Aug 2025 15:46:03 GMT</pubDate>
+    <pubDate>Sun, 10 Aug 2025 15:10:36 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -263,6 +263,16 @@
       <itunes:duration>00:05:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1nNY3ESnex228ssVG0bz_OtEg213fgdHC/view" />
+    </item>
+    <item>
+      <title>探索AI奇妙世界：智能助手与未来创新</title>
+      <description><![CDATA[本期播客带你探索人工智能的最新进展！了解AI如何成为高效研究助理，谷歌如何实现AI的极速学习，以及Graph-R1如何确保AI信息真实可靠。我们还将介绍Promptchan如何将文字想法变为炫酷视频，并探讨AI黑客马拉松等行业创新趋势。未来的AI将更智能、更自主，成为你的得力助手。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Dp8Uvn5Z43iDiPOEtrqdAK7vJOJ8dIcO" type="audio/mpeg" Length="4976640" />
+      <guid>episode-2025-08-10-1754838329969</guid>
+      <pubDate>Sun, 10 Aug 2025 15:05:29 GMT</pubDate>
+      <itunes:duration>310</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/undefined/view" />
     </item>
   </channel>
 </rss>
