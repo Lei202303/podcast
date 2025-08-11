@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Sun, 10 Aug 2025 15:10:36 GMT</pubDate>
+    <pubDate>Mon, 11 Aug 2025 15:24:53 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -271,6 +271,16 @@
       <guid>episode-2025-08-10-1754838329969</guid>
       <pubDate>Sun, 10 Aug 2025 15:05:29 GMT</pubDate>
       <itunes:duration>310</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/undefined/view" />
+    </item>
+    <item>
+      <title>AI奇迹：从创意电影到智能管家，探索未来科技新篇章</title>
+      <description><![CDATA[本期节目带你探索AI在多领域的惊人进展。从字节跳动、MiniMax等公司如何用AI生成高清视频，到中国AI“超级大脑”Kimi K2的协同智能，再到Rillet的AI财务管理系统如何高效理财并吸引大量投资。此外，升级版ChatGPT-5化身“博士级”助手，以及量子雷达和AI山体滑坡预警技术如何保障我们的安全。AI正日益成为解决问题、改善生活的强大工具，未来充满无限可能。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=178XdKNts3GEMzoTjvZSH7c3hvjB3tMeM" type="audio/mpeg" Length="5259264" />
+      <guid>episode-2025-08-11-1754925420175</guid>
+      <pubDate>Mon, 11 Aug 2025 15:17:00 GMT</pubDate>
+      <itunes:duration>00:05:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/undefined/view" />
     </item>
