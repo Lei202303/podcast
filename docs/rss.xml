@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Tue, 12 Aug 2025 15:13:44 GMT</pubDate>
+    <pubDate>Wed, 13 Aug 2025 15:14:54 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -293,6 +293,16 @@
       <itunes:duration>00:05:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1mXS1sVTay5-r5T2v_2DtfcCLo2ol9t_m/view" />
+    </item>
+    <item>
+      <title>AI超能力大爆发：从编程到金融，智能未来已来！</title>
+      <description><![CDATA[本期节目探索AI的最新进展，从“打游戏学习”模式看AI智能提升。深入了解AI程序员如何编写和修复代码，以及AI如何成为律师的超级助手。我们还将讨论小型AI在个人设备上的应用，AI安全的重要性，以及金融巨头高盛如何拥抱AI。展望未来，通用人工智能正改变我们的生活，激发无限可能。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KbOMMNVU4vzjvh6VDsad_HQRJpAhQanp" type="audio/mpeg" Length="4371456" />
+      <guid>episode-2025-08-13-1755097733722</guid>
+      <pubDate>Wed, 13 Aug 2025 15:08:53 GMT</pubDate>
+      <itunes:duration>273</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/13SyNozNhHQIDMoOFz2CrHFiA-ObMnUUO/view" />
     </item>
   </channel>
 </rss>
