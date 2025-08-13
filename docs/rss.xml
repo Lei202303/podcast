@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Wed, 13 Aug 2025 17:11:24 GMT</pubDate>
+    <pubDate>Wed, 13 Aug 2025 18:53:24 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -323,6 +323,16 @@
       <itunes:duration>00:04:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1kWuJCx10jMEMSupz6G5zARAGqFwxKliR/view" />
+    </item>
+    <item>
+      <title>AI新技能：探索人工智能的奇妙世界</title>
+      <description><![CDATA[探索AI世界的最新进展！从NVIDIA的ProRLv2推理学习，到Mistral AI的多模态理解。了解AI代理人如何独立完成任务，以及AI安全与监督的重要性。还有全球巨头对AI的巨大投资，一起展望通用人工智能AGI的未来。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Xj-Mf2H40z8-mxcdgyVbzxAP1AEdjA9E" type="audio/mpeg" Length="5582848" />
+      <guid>episode-2025-08-13-1755110872078</guid>
+      <pubDate>Wed, 13 Aug 2025 18:47:52 GMT</pubDate>
+      <itunes:duration>00:05:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/undefined/view" />
     </item>
   </channel>
 </rss>
