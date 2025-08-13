@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Wed, 13 Aug 2025 15:14:54 GMT</pubDate>
+    <pubDate>Wed, 13 Aug 2025 15:37:58 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -303,6 +303,16 @@
       <itunes:duration>273</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/13SyNozNhHQIDMoOFz2CrHFiA-ObMnUUO/view" />
+    </item>
+    <item>
+      <title>AI奇妙世界：智能大升级与未来探索</title>
+      <description><![CDATA[本次播报将带你走进AI的奇妙世界。我们将探讨Mistral AI的最新升级，了解AI如何通过强化学习变得更聪明，并如何成为律师等领域的强大助手。同时，我们也将关注AI安全、开源工具、轻量化技术以及AI投资热潮，揭示AI如何改变未来生活，成为我们最棒的伙伴。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ObTgBhsvHq1mUWsR59eMFAwPTqupqm_Z" type="audio/mpeg" Length="4705280" />
+      <guid>episode-2025-08-13-1755099054238</guid>
+      <pubDate>Wed, 13 Aug 2025 15:30:54 GMT</pubDate>
+      <itunes:duration>00:04:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/10wGNP3LErc-feQZIgzixQ7JR3ilZk2_o/view" />
     </item>
   </channel>
 </rss>
