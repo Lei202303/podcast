@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Thu, 14 Aug 2025 15:15:08 GMT</pubDate>
+    <pubDate>Thu, 14 Aug 2025 16:11:26 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -333,6 +333,16 @@
       <itunes:duration>00:03:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1SO0LRZEs4ULUQMe9i3IUResWUOwRRMGK/view" />
+    </item>
+    <item>
+      <title>AI新纪元：智能助理、代码侦探与未来生活的奇妙变革</title>
+      <description><![CDATA[AI正如何改变我们的世界？本期节目带你探索AI在法律、编程和智能物联领域的最新进展。了解谷歌如何用AI助律师提效，字节跳动如何用AI提升代码查找效率，以及边缘计算如何让智能设备更聪明。更重要的是，揭示AI产品成功的秘诀：用户体验、优质数据和信任。AI正在悄然塑造我们的未来生活！]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1H2oG9KoesVewJJs3qctnBlOD_RDJcfO8" type="audio/mpeg" Length="5502976" />
+      <guid>episode-2025-08-14-1755186315168</guid>
+      <pubDate>Thu, 14 Aug 2025 15:45:15 GMT</pubDate>
+      <itunes:duration>343</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1CeI4TgeEGuq0x2v_tPg9YHivydcJzLoI/view" />
     </item>
   </channel>
 </rss>
