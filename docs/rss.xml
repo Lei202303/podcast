@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Thu, 14 Aug 2025 16:11:26 GMT</pubDate>
+    <pubDate>Fri, 15 Aug 2025 15:19:25 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -343,6 +343,16 @@
       <itunes:duration>343</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1CeI4TgeEGuq0x2v_tPg9YHivydcJzLoI/view" />
+    </item>
+    <item>
+      <title>AI科技风云榜：国产AI突围、智能眼镜与数据新革命</title>
+      <description><![CDATA[本期探索AI世界的精彩进展！了解国产AI模型DeepSeek如何挑战全球巨头，及其在芯片选择上的挑战。聚焦阿里巴巴夸克AI智能眼镜，看它如何通过人机协同成为生活助手。解析AI训练中新兴的合成数据技术，它如何安全高效地提升AI能力。节目揭示了英伟达、阿里巴巴等巨头对AI的巨大投入，强调AI正真实改变生活，未来将愈发重要。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1w3bJ1_Xwzo3gNBO_F0B4Bg0wu7RpzyEQ" type="audio/mpeg" Length="4274176" />
+      <guid>episode-2025-08-15-1755270812734</guid>
+      <pubDate>Fri, 15 Aug 2025 15:13:32 GMT</pubDate>
+      <itunes:duration>00:04:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1zbRuK39zo7hgq-40NolIz4MMyTc5Hx8Y/view" />
     </item>
   </channel>
 </rss>
