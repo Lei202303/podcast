@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Fri, 15 Aug 2025 15:19:25 GMT</pubDate>
+    <pubDate>Sat, 16 Aug 2025 15:18:10 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -353,6 +353,16 @@
       <itunes:duration>00:04:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1zbRuK39zo7hgq-40NolIz4MMyTc5Hx8Y/view" />
+    </item>
+    <item>
+      <title>AI奇妙故事会：探索最新AI科技与应用</title>
+      <description><![CDATA[欢迎来到“AI奇妙故事会”！本期节目带你探索AI世界的最新进展。我们将介绍能自我学习并挑战自我的R-Zero；像“水晶球”一样预测未来的Moirai 2.0；以及能消除语言障碍的“语言大师”Granary。节目还将探讨AI在性能和公平性方面的持续进步，以及全球对AI的巨大投入。AI正飞速发展，将成为我们生活的重要助手，带来无限可能。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uFXZYW9-EPMwloffKRWY2nYtcLG-IQLi" type="audio/mpeg" Length="5298176" />
+      <guid>episode-2025-08-16-1755357011094</guid>
+      <pubDate>Sat, 16 Aug 2025 15:10:11 GMT</pubDate>
+      <itunes:duration>00:05:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1lgfUAxPV-CD8GTQgr14gBfHzp4W6Djho/view" />
     </item>
   </channel>
 </rss>
