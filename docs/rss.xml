@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Sun, 17 Aug 2025 15:20:06 GMT</pubDate>
+    <pubDate>Mon, 18 Aug 2025 15:16:44 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -373,6 +373,16 @@
       <itunes:duration>313</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/undefined/view" />
+    </item>
+    <item>
+      <title>AI世界新动态：从超级眼睛到艺术大师</title>
+      <description><![CDATA[本期探索AI最新动态。AI化身“超级眼睛”识别图片文字，还能创作独一无二的画作。随着技术发展，AI使用成本正大幅降低，免费工具涌现。节目深入讲解AI如何通过“强化学习”和“RAG”变得更聪明，并探讨AI公平性、对未来工作的影响及人才培养趋势。AI正深刻改变生活，充满无限可能。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jPYumrl2ro8eb3_i9M4gvgxpb7Brx5rd" type="audio/mpeg" Length="3905536" />
+      <guid>episode-2025-08-18-1755529706515</guid>
+      <pubDate>Mon, 18 Aug 2025 15:08:26 GMT</pubDate>
+      <itunes:duration>244</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1UZo7yGS6oEYA00WevjDGELDgodXIsI-Y/view" />
     </item>
   </channel>
 </rss>
