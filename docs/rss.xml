@@ -5,7 +5,7 @@
     <link>https://lei202303.github.io/test/docs/rss.xml</link>
     <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
     <language>zh-cn</language>
-    <pubDate>Thu, 21 Aug 2025 15:20:03 GMT</pubDate>
+    <pubDate>Mon, 25 Aug 2025 16:58:34 GMT</pubDate>
     <itunes:author></itunes:author>
     <itunes:category text="Kids &amp; Family">
     <itunes:category text="Education for Kids"/>
@@ -413,6 +413,46 @@
       <itunes:duration>00:08:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://drive.google.com/file/d/1UC71NFndPQeZ-PAvvDwga2WtLH68f0x2/view" />
+    </item>
+    <item>
+      <title>AI奇迹：从虚拟销售到科研，科技重塑生活</title>
+      <description><![CDATA[本期节目带您探索AI如何深入改变生活：从24小时在线的虚拟销售员，到强大的AI服务器驱动未来科技；揭秘谷歌办公软件的AI魔法，AI如何重塑声音、提升效率，甚至自己搞科研、保障安全。展望AI与你我共创的智慧未来！]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PPBkYj71Etv1EE5aFXRGutfrIwwnSJP5" type="audio/mpeg" Length="5835776" />
+      <guid>episode-2025-08-22-1755875666215</guid>
+      <pubDate>Fri, 22 Aug 2025 15:14:26 GMT</pubDate>
+      <itunes:duration>00:06:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/undefined/view" />
+    </item>
+    <item>
+      <title>AI奇妙世界：智能机器人、艺术创作与未来生活</title>
+      <description><![CDATA[本期节目带您探索AI最新进展：DHL仓库的智能机器人提升物流效率，Meta与Midjourney合作解锁AI艺术创作新维度，智能语音助手日益贴心。AI还在医疗健康领域发挥预测作用，并逐步融入企业发展。AI不仅是技术，也给我们的生活带来陪伴与无限可能。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yR6xSbmDCrXnHtrbim1RDkJ43gRHDoWz" type="audio/mpeg" Length="4105216" />
+      <guid>episode-2025-08-23-1755963231776</guid>
+      <pubDate>Sat, 23 Aug 2025 15:33:51 GMT</pubDate>
+      <itunes:duration>00:04:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1TEsPay4H8K8MreyPTh_9Yl4Z7QYLE7DX/view" />
+    </item>
+    <item>
+      <title>AI人工智能新发现：数据压缩、智能学习与未来应用</title>
+      <description><![CDATA[本期，小探险家带你探索AI人工智能的最新进展。包括GPZ数字压缩技术提升效率，Prefix-RFT让AI学习更智能，图结构AI代理处理复杂任务，以及JSON提示优化人机交互。此外，还介绍了AI写作助手、智能数据库、AI医疗应用和企业如何布局AI，展望AI的无限可能。]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ei01YzDvB03irQZ5DxHHfTnyM8iQA3AT" type="audio/mpeg" Length="5685248" />
+      <guid>episode-2025-08-24-1756048197092</guid>
+      <pubDate>Sun, 24 Aug 2025 15:09:57 GMT</pubDate>
+      <itunes:duration>00:05:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/1v-vUGmE-5EdKfA93SVksoK_E_rxK8u_c/view" />
+    </item>
+    <item>
+      <title>AI魔法来袭：探索智能世界的最新奇遇</title>
+      <description><![CDATA[各位好奇宝宝，快来探险！本期节目带你了解AI如何让手机更智能、帮助大人处理邮件、保障工厂安全、创造超级塑料、提升学习效率。我们还会揭示AI“大脑”的强大力量，并提醒大家警惕AI假新闻的挑战。一起探索AI的未来吧！]]></description>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1b8WCXpn1msNEN9sxhVZ27AQtAwSqQrGe" type="audio/mpeg" Length="4926464" />
+      <guid>episode-2025-08-25-1756134795904</guid>
+      <pubDate>Mon, 25 Aug 2025 15:13:15 GMT</pubDate>
+      <itunes:duration>307</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://drive.google.com/file/d/undefined/view" />
     </item>
   </channel>
 </rss>
