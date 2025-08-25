@@ -1,458 +1,515 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>智趣AI时间</title>
-    <link>https://lei202303.github.io/test/docs/rss.xml</link>
-    <description>欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭</description>
-    <language>zh-cn</language>
-    <pubDate>Mon, 25 Aug 2025 16:58:34 GMT</pubDate>
-    <itunes:author></itunes:author>
+    <link>https://lei202303.github.io/podcast/</link>
+    <atom:link href="https://lei202303.github.io/test/docs/rss.xml" rel="self" type="application/rss+xml" />
+    <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
+    <language>zh-CN</language>
+    <pubDate>Mon, 25 Aug 2025 18:15:22 GMT</pubDate>
+    <lastBuildDate>Mon, 25 Aug 2025 18:15:22 GMT</lastBuildDate>
+
+    <itunes:author>智趣AI时间</itunes:author>
+    <itunes:owner>
+      <itunes:name>Ray</itunes:name>
+      <itunes:email>zhang.lei001@qq.com</itunes:email>
+    </itunes:owner>
+
     <itunes:category text="Kids &amp; Family">
-    <itunes:category text="Education for Kids"/>
-</itunes:category>
-<itunes:category text="Technology"/>
-    <itunes:image href="https://drive.google.com/file/d/1m2a5Uesql2FLUs8LNZcXSWUx5M9qXo-J/view"/>
+      <itunes:category text="Education for Kids"/>
+    </itunes:category>
+    <itunes:category text="Technology"/>
+
+    <itunes:image href="https://lei202303.github.io/podcast/docs/podcast.png"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
     
     <item>
       <title>小小探险家：AI世界的三大新魔法</title>
       <description><![CDATA[本期节目带小小探险家们探索AI世界的三大魔法进展：AI通用翻译器（MCP）如何让不同AI协作，成为默契团队；NVIDIA如何“蒸馏”出专业迷你智慧脑，擅长数学和编程；以及“物理学驱动的AI”如何理解世界运行法则，成为能推理发明的科学家。这些前沿技术正深刻改变我们的生活，激发无限想象力！]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1C5sn9tmu2aE08HXcS_LTH50T8sDoEbUH" type="audio/mpeg" Length="4987kB" />
-      <guid>episode-2025-07-21-1753081445912</guid>
+      <itunes:summary><![CDATA[本期节目带小小探险家们探索AI世界的三大魔法进展：AI通用翻译器（MCP）如何让不同AI协作，成为默契团队；NVIDIA如何“蒸馏”出专业迷你智慧脑，擅长数学和编程；以及“物理学驱动的AI”如何理解世界运行法则，成为能推理发明的科学家。这些前沿技术正深刻改变我们的生活，激发无限想象力！]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1C5sn9tmu2aE08HXcS_LTH50T8sDoEbUH" type="audio/mpeg" length="5106688" />
+      <guid isPermaLink="false">episode-2025-07-21-1753081445912</guid>
       <pubDate>Mon, 21 Jul 2025 07:04:05 GMT</pubDate>
       <itunes:duration>00:05:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1lQCFIg1KFAfMWtgsr1r-N0i_bAlKDeZZ/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250721.png" />
     </item>
     <item>
       <title>AI大冒险：通用翻译器、智慧大脑与物理定律新突破</title>
       <description><![CDATA[本期带你走进AI奇妙世界，探索近期三大突破。揭秘AI通用翻译器MCP如何促进跨平台AI协作；了解AI科学家如何学习物理定律，实现从“知其然”到“知其所以然”；并介绍英伟达打造的超级智慧大脑，它们是数学、科学与编程的天才。亚马逊、微软、谷歌、英伟达等巨头正积极投资，AI将是开启未来无限可能的钥匙。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TlNlrkideAFvjaF0GUwIWe3zih9019G1" type="audio/mpeg" Length="4789kB" />
-      <guid>episode-2025-07-21-1753082656664</guid>
+      <itunes:summary><![CDATA[本期带你走进AI奇妙世界，探索近期三大突破。揭秘AI通用翻译器MCP如何促进跨平台AI协作；了解AI科学家如何学习物理定律，实现从“知其然”到“知其所以然”；并介绍英伟达打造的超级智慧大脑，它们是数学、科学与编程的天才。亚马逊、微软、谷歌、英伟达等巨头正积极投资，AI将是开启未来无限可能的钥匙。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TlNlrkideAFvjaF0GUwIWe3zih9019G1" type="audio/mpeg" length="4903936" />
+      <guid isPermaLink="false">episode-2025-07-21-1753082656664</guid>
       <pubDate>Mon, 21 Jul 2025 07:24:16 GMT</pubDate>
       <itunes:duration>00:05:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1EgJJF4iCwUmoa2PPRfSxb4Wbj6WRUyuX/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250721.png" />
     </item>
     <item>
       <title>AI魔法新篇章：机器人、小侦探与电影特技</title>
       <description><![CDATA[探索AI世界的最新进展！从巴西机器人世界杯的精彩瞬间，到AI化身科学侦探自主实验；再到AI如何让电影特效更酷炫、智能助手更贴心；以及AI在编程和金融领域的应用。同时提醒，使用AI需注意隐私和专业建议，未来等你来创造！]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cQBXm3YQzfRtxu6u_jPsXZ1SRVFum1Il" type="audio/mpeg" Length="5440928" />
-      <guid>episode-2025-07-21-1753110353972</guid>
+      <itunes:summary><![CDATA[探索AI世界的最新进展！从巴西机器人世界杯的精彩瞬间，到AI化身科学侦探自主实验；再到AI如何让电影特效更酷炫、智能助手更贴心；以及AI在编程和金融领域的应用。同时提醒，使用AI需注意隐私和专业建议，未来等你来创造！]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1cQBXm3YQzfRtxu6u_jPsXZ1SRVFum1Il" type="audio/mpeg" length="5440928" />
+      <guid isPermaLink="false">episode-2025-07-21-1753110353972</guid>
       <pubDate>Mon, 21 Jul 2025 15:05:53 GMT</pubDate>
       <itunes:duration>00:05:39</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1RXze4UIsiqpbYV_HWsMRwJmNB3A2Aimr/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250721.png" />
     </item>
     <item>
       <title>AI魔法秀：探索人工智能的最新奇迹</title>
       <description><![CDATA[本期节目揭秘AI最新进展：大型模型实现互联互通，AI助力代码优化、加速科学研究与编程语言翻译。更有AI理财管家、智能聊天机器人，以及AI在影视特效和视频生成领域的突破。重要提示：AI是工具，不能替代专业医生。共同探索AI的无限可能！]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lYhq6DUtyvwtBjWT3VVSOt2VzZWb7Tco" type="audio/mpeg" Length="5509120" />
-      <guid>episode-2025-07-21-1753130237698</guid>
+      <itunes:summary><![CDATA[本期节目揭秘AI最新进展：大型模型实现互联互通，AI助力代码优化、加速科学研究与编程语言翻译。更有AI理财管家、智能聊天机器人，以及AI在影视特效和视频生成领域的突破。重要提示：AI是工具，不能替代专业医生。共同探索AI的无限可能！]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lYhq6DUtyvwtBjWT3VVSOt2VzZWb7Tco" type="audio/mpeg" length="5509120" />
+      <guid isPermaLink="false">episode-2025-07-21-1753130237698</guid>
       <pubDate>Mon, 21 Jul 2025 20:37:17 GMT</pubDate>
       <itunes:duration>00:05:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1l8jnq5bCG-arjTqBbWRTxnIyeCnAMt9Q/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250721.png" />
     </item>
     <item>
       <title>AI故事时间：解锁未来科技的奇妙力量</title>
       <description><![CDATA[本期节目带你探索AI的最新奇妙进展！从AI助力深地热能开采，到超大规模AI数据中心的建设，再到AI在科学研究、编程、机器人足球、智能助手和金融医疗等领域的广泛应用。了解AI如何赋能未来，同时探讨其学习与成长中的挑战。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c_jnGeqDKKdjqYtTTGDvxmqOz5QzLd4r" type="audio/mpeg" Length="5396480" />
-      <guid>episode-2025-07-22-1753196660340</guid>
+      <itunes:summary><![CDATA[本期节目带你探索AI的最新奇妙进展！从AI助力深地热能开采，到超大规模AI数据中心的建设，再到AI在科学研究、编程、机器人足球、智能助手和金融医疗等领域的广泛应用。了解AI如何赋能未来，同时探讨其学习与成长中的挑战。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c_jnGeqDKKdjqYtTTGDvxmqOz5QzLd4r" type="audio/mpeg" length="5396480" />
+      <guid isPermaLink="false">episode-2025-07-22-1753196660340</guid>
       <pubDate>Tue, 22 Jul 2025 15:04:20 GMT</pubDate>
       <itunes:duration>00:05:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1UFoxau2FNfb4JoFBvPCSai5D6t9XL2zg/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250722.png" />
     </item>
     <item>
       <title>AI最新进展：探索智能生活的超能力与挑战</title>
       <description><![CDATA[本期节目深入探讨了人工智能的最新进展。AI不仅展现出超凡的创造力，能撰写文章、代码甚至音乐，还升级为能自主完成任务的“超级管家”。它在工业安全和科学探索领域也大显身手，如监测危险和发现清洁能源。然而，AI也面临挑战，包括可能产生“幻觉”、高能耗以及对高质量数据的依赖。节目强调，未来我们应学会与AI协作，共同迎接更智能的时代。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ASfVVD7S3udfM5cNYqZgmfb9y65scyM2" type="audio/mpeg" Length="5158912" />
-      <guid>episode-2025-07-22-1753210660580</guid>
+      <itunes:summary><![CDATA[本期节目深入探讨了人工智能的最新进展。AI不仅展现出超凡的创造力，能撰写文章、代码甚至音乐，还升级为能自主完成任务的“超级管家”。它在工业安全和科学探索领域也大显身手，如监测危险和发现清洁能源。然而，AI也面临挑战，包括可能产生“幻觉”、高能耗以及对高质量数据的依赖。节目强调，未来我们应学会与AI协作，共同迎接更智能的时代。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ASfVVD7S3udfM5cNYqZgmfb9y65scyM2" type="audio/mpeg" length="5158912" />
+      <guid isPermaLink="false">episode-2025-07-22-1753210660580</guid>
       <pubDate>Tue, 22 Jul 2025 18:57:40 GMT</pubDate>
       <itunes:duration>00:05:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1Y4uxk4zlGZ2jABdTIPXGqtYZcI9w1Err/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250722.png" />
     </item>
     <item>
       <title>小小探险家看AI：智慧工厂、AI医生与智能城市</title>
       <description><![CDATA[本期节目带你探索AI世界的最新进展！我们聊聊顶尖科技公司如何打造“AI大脑工厂”，让AI更聪明；AI如何变身“AI工程师”助力编程，成为“AI医生”辅助诊断；以及AI如何守护安全、清洁地球、建设智能城市。同时，我们也将探讨AI发展中的规则制定、隐私保护，并鼓励大家保持好奇心，共同创造AI的未来！]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NFkTaKpjvFun_nkmtYGhkMCN_ZGx31E-" type="audio/mpeg" Length="4085760" />
-      <guid>episode-2025-07-23-1753284125270</guid>
+      <itunes:summary><![CDATA[本期节目带你探索AI世界的最新进展！我们聊聊顶尖科技公司如何打造“AI大脑工厂”，让AI更聪明；AI如何变身“AI工程师”助力编程，成为“AI医生”辅助诊断；以及AI如何守护安全、清洁地球、建设智能城市。同时，我们也将探讨AI发展中的规则制定、隐私保护，并鼓励大家保持好奇心，共同创造AI的未来！]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1NFkTaKpjvFun_nkmtYGhkMCN_ZGx31E-" type="audio/mpeg" length="4085760" />
+      <guid isPermaLink="false">episode-2025-07-23-1753284125270</guid>
       <pubDate>Wed, 23 Jul 2025 15:22:05 GMT</pubDate>
       <itunes:duration>00:04:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1iqgNlfaNjmzsY87l2zYY30QupPhXh38F/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250723.png" />
     </item>
     <item>
       <title>AI魔法生活：智能科技的奇妙之旅</title>
       <description><![CDATA[本期节目带你探索人工智能（AI）如何改变我们的生活。从智能购物向导、协助考古发现、到智能视频生成工具Veo，再到健康监测LSM-2和工地安全巡逻，以及机器人足球赛。AI正像一个爱学习的孩子，通过自我改进，解决问题。亚马逊、谷歌等巨头正大力投资AI，预示着一个充满无限可能的未来。AI让生活更健康、更安全、更美好。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1d2d1lWRl1FFdpvINAwuO7MrDV56LqWT_" type="audio/mpeg" Length="5167104" />
-      <guid>episode-2025-07-24-1753372350687</guid>
+      <itunes:summary><![CDATA[本期节目带你探索人工智能（AI）如何改变我们的生活。从智能购物向导、协助考古发现、到智能视频生成工具Veo，再到健康监测LSM-2和工地安全巡逻，以及机器人足球赛。AI正像一个爱学习的孩子，通过自我改进，解决问题。亚马逊、谷歌等巨头正大力投资AI，预示着一个充满无限可能的未来。AI让生活更健康、更安全、更美好。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1d2d1lWRl1FFdpvINAwuO7MrDV56LqWT_" type="audio/mpeg" length="5167104" />
+      <guid isPermaLink="false">episode-2025-07-24-1753372350687</guid>
       <pubDate>Thu, 24 Jul 2025 15:52:30 GMT</pubDate>
       <itunes:duration>00:05:22</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/19NgsArjO7kmJNbPTjyQrErpcq8Hry2sV/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250724.png" />
     </item>
     <item>
       <title>AI未来探险：超级大脑与智能行动派的崛起</title>
       <description><![CDATA[本期“未来探险家”带你探索AI的最新魔法！我们揭秘阿里巴巴“Qwen”超级AI和GitHub的智能应用工具Spark。了解AI在音乐创作、机器人自学习、工业应用及安全监管方面的突破。AI还在政府、矿业、网络安全和助力小企业全球化中大放异彩。最后展望AI能源需求和人机交互的未来，探讨AI如何持续改变世界。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pQ5Zkq8jW_2NTHlfh20GwCUmLe701fYq" type="audio/mpeg" Length="5248000" />
-      <guid>episode-2025-07-25-1753456103479</guid>
+      <itunes:summary><![CDATA[本期“未来探险家”带你探索AI的最新魔法！我们揭秘阿里巴巴“Qwen”超级AI和GitHub的智能应用工具Spark。了解AI在音乐创作、机器人自学习、工业应用及安全监管方面的突破。AI还在政府、矿业、网络安全和助力小企业全球化中大放异彩。最后展望AI能源需求和人机交互的未来，探讨AI如何持续改变世界。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1pQ5Zkq8jW_2NTHlfh20GwCUmLe701fYq" type="audio/mpeg" length="5248000" />
+      <guid isPermaLink="false">episode-2025-07-25-1753456103479</guid>
       <pubDate>Fri, 25 Jul 2025 15:08:23 GMT</pubDate>
       <itunes:duration>00:05:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1sgahbBSu8QHredWo177ckxyra4h4yDbI/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250725.png" />
     </item>
     <item>
       <title>AI魔法世界：智能代理与未来科技大揭秘</title>
       <description><![CDATA[本期带你探索奇妙AI世界。了解能自主思考、规划任务的“智能代理AI”；拥有“火眼金睛”的智能机器人；以及记忆力更强的AI助手。揭秘谷歌AI如何修复古老拉丁文铭文，和AI在手机拍照、银行等日常应用。解析英伟达、谷歌等科技巨头投资AI的深层原因，展望AI如何助力解决未来挑战。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UAhtFzFN6FpTpCsJKDLurbN72ElSGH7T" type="audio/mpeg" Length="5477376" />
-      <guid>episode-2025-07-26-1753542553879</guid>
+      <itunes:summary><![CDATA[本期带你探索奇妙AI世界。了解能自主思考、规划任务的“智能代理AI”；拥有“火眼金睛”的智能机器人；以及记忆力更强的AI助手。揭秘谷歌AI如何修复古老拉丁文铭文，和AI在手机拍照、银行等日常应用。解析英伟达、谷歌等科技巨头投资AI的深层原因，展望AI如何助力解决未来挑战。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UAhtFzFN6FpTpCsJKDLurbN72ElSGH7T" type="audio/mpeg" length="5477376" />
+      <guid isPermaLink="false">episode-2025-07-26-1753542553879</guid>
       <pubDate>Sat, 26 Jul 2025 15:09:13 GMT</pubDate>
       <itunes:duration>00:05:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1tC2_Q35bYcEqXN44r4V5dCHu4qphy1q7/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250726.png" />
     </item>
     <item>
       <title>AI能力升级大作战：智能助手、智慧城市与医疗新突破</title>
       <description><![CDATA[本期节目带你探索AI世界的最新进展，从更具人性化的智能助手、手腕上的ChatGPT，到NVIDIA的AI大脑升级和谷歌的团队协作框架。AI正变得更善解人意，并在智慧城市和医疗影像诊断中展现强大能力。各大科技巨头正持续推动AI发展，为生活带来无限可能。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17PMiy65n60xL36wBE7a_x-rdvYmhTdRL" type="audio/mpeg" Length="5320704" />
-      <guid>episode-2025-07-27-1753629682213</guid>
+      <itunes:summary><![CDATA[本期节目带你探索AI世界的最新进展，从更具人性化的智能助手、手腕上的ChatGPT，到NVIDIA的AI大脑升级和谷歌的团队协作框架。AI正变得更善解人意，并在智慧城市和医疗影像诊断中展现强大能力。各大科技巨头正持续推动AI发展，为生活带来无限可能。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17PMiy65n60xL36wBE7a_x-rdvYmhTdRL" type="audio/mpeg" length="5320704" />
+      <guid isPermaLink="false">episode-2025-07-27-1753629682213</guid>
       <pubDate>Sun, 27 Jul 2025 15:21:22 GMT</pubDate>
       <itunes:duration>00:05:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/19Xh-qzyH0ehJ9Fx0UnnAvrAAl-SOxPby/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250727.png" />
     </item>
     <item>
       <title>AI魔法奇遇：探索未来新世界</title>
       <description><![CDATA[本期节目带你探索奇妙的AI世界！了解AI如何成为我们的超级助手、创意魔法家，以及学习和安全的守护神。从法律文档处理到智能购物，从3D世界创造到日常学习，AI正悄然改变我们的生活，掌握AI将是开启未来之门的钥匙。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yZHSMGPHESyYHkXcS8jWIFXLieXGmV6H" type="audio/mpeg" Length="10482688" />
-      <guid>episode-2025-07-28-1753715469322</guid>
+      <itunes:summary><![CDATA[本期节目带你探索奇妙的AI世界！了解AI如何成为我们的超级助手、创意魔法家，以及学习和安全的守护神。从法律文档处理到智能购物，从3D世界创造到日常学习，AI正悄然改变我们的生活，掌握AI将是开启未来之门的钥匙。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yZHSMGPHESyYHkXcS8jWIFXLieXGmV6H" type="audio/mpeg" length="10482688" />
+      <guid isPermaLink="false">episode-2025-07-28-1753715469322</guid>
       <pubDate>Mon, 28 Jul 2025 15:11:09 GMT</pubDate>
       <itunes:duration>00:10:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1-Us4kePX__7cySb_XFr3jD4O3Ap6GSi-/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250728.png" />
     </item>
     <item>
       <title>AI前沿速览：智能助手、开源模型与声音创新</title>
       <description><![CDATA[本期节目带你探索AI世界的最新进展，包括Shopflo的智能线上销售助手、大型语言模型的应用与开源趋势（如Z.ai的GLM-4.5）、亚马逊提升AI运算速度的新技术、微软Edge浏览器的Copilot助手。此外，还介绍了NVIDIA的AI安全方案、多AI系统间的协作努力以及Sony的文字转声音技术。AI正改变我们的生活，未来充满无限可能。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14lb7UrmJRwbKQTuh83mrocnPRZR1m9We" type="audio/mpeg" Length="5772288" />
-      <guid>episode-2025-07-29-1753802386468</guid>
+      <itunes:summary><![CDATA[本期节目带你探索AI世界的最新进展，包括Shopflo的智能线上销售助手、大型语言模型的应用与开源趋势（如Z.ai的GLM-4.5）、亚马逊提升AI运算速度的新技术、微软Edge浏览器的Copilot助手。此外，还介绍了NVIDIA的AI安全方案、多AI系统间的协作努力以及Sony的文字转声音技术。AI正改变我们的生活，未来充满无限可能。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14lb7UrmJRwbKQTuh83mrocnPRZR1m9We" type="audio/mpeg" length="5772288" />
+      <guid isPermaLink="false">episode-2025-07-29-1753802386468</guid>
       <pubDate>Tue, 29 Jul 2025 15:19:46 GMT</pubDate>
       <itunes:duration>00:06:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/17vKfm5uF-YZ5m0CVfxcZN2t3EJMLBLe-/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250729.png" />
     </item>
     <item>
       <title>AI超级大脑：探索智能伙伴的奇妙进化</title>
       <description><![CDATA[节目带你探索AI的最新进展。AI正学习编写代码、智能修复漏洞、解决复杂数学题，并能组队协作。从苹果的视觉理解到清洁能源管理，AI已深入生活。ChatGPT推出学习模式，更有AI隐私保护，预示着AI将成为我们未来不可或缺的智能伙伴。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14O6f9JJJbU1Eor-LEZS4YKCntZTVEDE6" type="audio/mpeg" Length="3420160" />
-      <guid>episode-2025-07-30-1753888008670</guid>
+      <itunes:summary><![CDATA[节目带你探索AI的最新进展。AI正学习编写代码、智能修复漏洞、解决复杂数学题，并能组队协作。从苹果的视觉理解到清洁能源管理，AI已深入生活。ChatGPT推出学习模式，更有AI隐私保护，预示着AI将成为我们未来不可或缺的智能伙伴。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14O6f9JJJbU1Eor-LEZS4YKCntZTVEDE6" type="audio/mpeg" length="3420160" />
+      <guid isPermaLink="false">episode-2025-07-30-1753888008670</guid>
       <pubDate>Wed, 30 Jul 2025 15:06:48 GMT</pubDate>
       <itunes:duration>00:03:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1s2AlzzM1jf8qPbIPubJkXOMT8zT0R50x/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250730.png" />
     </item>
     <item>
       <title>探索AI奇妙世界：从虚拟人到地球守护神</title>
       <description><![CDATA[本期节目带你探索神奇的AI世界！从AI如何创造栩栩如生的虚拟人，到如何实现“个人超级智能”助手，让学习和生活充满可能。我们还将看到AI在编程、地球保护（如“阿尔法地球”监测）、法律文件处理及网络隐私安全等领域的巨大进展。节目也引发对AI未来权利的思考。AI正像超级英雄般改变世界，激发孩子们对未来科技的无限好奇心。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18sx-53qulHP_6gT3dOFjIBXmf3n-GQK-" type="audio/mpeg" Length="4976640" />
-      <guid>episode-2025-07-31-1753974462585</guid>
+      <itunes:summary><![CDATA[本期节目带你探索神奇的AI世界！从AI如何创造栩栩如生的虚拟人，到如何实现“个人超级智能”助手，让学习和生活充满可能。我们还将看到AI在编程、地球保护（如“阿尔法地球”监测）、法律文件处理及网络隐私安全等领域的巨大进展。节目也引发对AI未来权利的思考。AI正像超级英雄般改变世界，激发孩子们对未来科技的无限好奇心。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18sx-53qulHP_6gT3dOFjIBXmf3n-GQK-" type="audio/mpeg" length="4976640" />
+      <guid isPermaLink="false">episode-2025-07-31-1753974462585</guid>
       <pubDate>Thu, 31 Jul 2025 15:07:42 GMT</pubDate>
       <itunes:duration>00:05:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1XOhOw0NoLeN6Ji0I11Qxgzq3k-dn6qxf/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250731.png" />
     </item>
     <item>
       <title>小小发明家探索AI新本领：从个人到社会的应用与伦理</title>
       <description><![CDATA[欢迎探索AI奇妙世界！本期节目带你了解人工智能最新进展：从Anaconda推动AI普及，到小模型与设备端AI带来更便捷的个人应用。谷歌AI研究助手、开源大模型Falcon-H1等展示了AI深度思考能力。AgentSociety虚拟社会模拟，以及AI在城市规划、金融、法律等领域的广泛应用。同时，节目强调AI伦理与安全的重要性，展望AI普及的未来。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14vp5jLJZy1k3pym2VsciTnfay7MCHNHE" type="audio/mpeg" Length="5630976" />
-      <guid>episode-2025-08-01-1754060810447</guid>
+      <itunes:summary><![CDATA[欢迎探索AI奇妙世界！本期节目带你了解人工智能最新进展：从Anaconda推动AI普及，到小模型与设备端AI带来更便捷的个人应用。谷歌AI研究助手、开源大模型Falcon-H1等展示了AI深度思考能力。AgentSociety虚拟社会模拟，以及AI在城市规划、金融、法律等领域的广泛应用。同时，节目强调AI伦理与安全的重要性，展望AI普及的未来。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=14vp5jLJZy1k3pym2VsciTnfay7MCHNHE" type="audio/mpeg" length="5630976" />
+      <guid isPermaLink="false">episode-2025-08-01-1754060810447</guid>
       <pubDate>Fri, 01 Aug 2025 15:06:50 GMT</pubDate>
       <itunes:duration>00:05:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1g9d3P45oLqLQODifSVvrJu8IyMiqb6zd/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250801.png" />
     </item>
     <item>
       <title>AI奇妙世界探险：揭秘最新智能科技</title>
       <description><![CDATA[欢迎探索AI奇妙世界！本期节目聚焦AI最新进展：从无需编程的“无代码”AI，到记录实验的Trackio工具；从开源强大的Deep Cogito v2“AI大脑”，到多代理系统下的AI团队协作；更有为AI打“预防针”确保其安全友好。揭秘AI核心的Transformer模型，共同感受AI的无限潜力和未来发展。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sYIkUFWetKwq2gAfnS4c0wZ26f6TFkou" type="audio/mpeg" Length="4331520" />
-      <guid>episode-2025-08-02-1754147179815</guid>
+      <itunes:summary><![CDATA[欢迎探索AI奇妙世界！本期节目聚焦AI最新进展：从无需编程的“无代码”AI，到记录实验的Trackio工具；从开源强大的Deep Cogito v2“AI大脑”，到多代理系统下的AI团队协作；更有为AI打“预防针”确保其安全友好。揭秘AI核心的Transformer模型，共同感受AI的无限潜力和未来发展。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sYIkUFWetKwq2gAfnS4c0wZ26f6TFkou" type="audio/mpeg" length="4331520" />
+      <guid isPermaLink="false">episode-2025-08-02-1754147179815</guid>
       <pubDate>Sat, 02 Aug 2025 15:06:19 GMT</pubDate>
       <itunes:duration>00:04:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1O6i9skUmRHnPi0u-k9udITJF7RdL7yNN/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250802.png" />
     </item>
     <item>
       <title>解密AI“大脑”：从芯片到最新AI应用突破</title>
       <description><![CDATA[本期节目揭秘AI的多元“大脑”：从CPU、GPU、NPU到TPU，了解它们如何分工协作。探索AI自我进化的奥秘，包括谷歌“星辰助手”MLE-STAR实现AI自主学习优化，以及CUDA-L1技术让GPU效率飙升120倍。此外，还将介绍Roboflow视频侦探、SHAP-IQ提升AI可解释性及麻省理工增强AI模型稳定性的最新进展。AI正飞速发展，深刻改变我们的生活。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16g3paehcXWK53Nwvlg9wlh6rP5VIbXV9" type="audio/mpeg" Length="4680704" />
-      <guid>episode-2025-08-03-1754233655943</guid>
+      <itunes:summary><![CDATA[本期节目揭秘AI的多元“大脑”：从CPU、GPU、NPU到TPU，了解它们如何分工协作。探索AI自我进化的奥秘，包括谷歌“星辰助手”MLE-STAR实现AI自主学习优化，以及CUDA-L1技术让GPU效率飙升120倍。此外，还将介绍Roboflow视频侦探、SHAP-IQ提升AI可解释性及麻省理工增强AI模型稳定性的最新进展。AI正飞速发展，深刻改变我们的生活。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=16g3paehcXWK53Nwvlg9wlh6rP5VIbXV9" type="audio/mpeg" length="4680704" />
+      <guid isPermaLink="false">episode-2025-08-03-1754233655943</guid>
       <pubDate>Sun, 03 Aug 2025 15:07:35 GMT</pubDate>
       <itunes:duration>00:04:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1wCJr2srqJCIjOq4Jn2OaVR6pjNBvhgeC/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250803.png" />
     </item>
     <item>
       <title>AI大揭秘：从智能助手到拯救蜜蜂的科技新篇章</title>
       <description><![CDATA[本期节目带你探索AI在生活中的最新突破。了解AI如何助力律师高效处理法律文件、网站更智能理解用户，以及电商平台Etsy如何利用AI实现精准寻宝。同时，我们将关注AI巨头间的竞争、全球资本对AI的重金投入，并揭秘字节跳动AI如何攻克数学难题。节目还将探讨AI伦理法规的制定，并分享AI拯救蜜蜂的暖心故事，展现AI的无限可能。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1esImqZSnI1iUVhrn_QQhN2gq6FuxK0Cy" type="audio/mpeg" Length="4305920" />
-      <guid>episode-2025-08-04-1754319950350</guid>
+      <itunes:summary><![CDATA[本期节目带你探索AI在生活中的最新突破。了解AI如何助力律师高效处理法律文件、网站更智能理解用户，以及电商平台Etsy如何利用AI实现精准寻宝。同时，我们将关注AI巨头间的竞争、全球资本对AI的重金投入，并揭秘字节跳动AI如何攻克数学难题。节目还将探讨AI伦理法规的制定，并分享AI拯救蜜蜂的暖心故事，展现AI的无限可能。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1esImqZSnI1iUVhrn_QQhN2gq6FuxK0Cy" type="audio/mpeg" length="4305920" />
+      <guid isPermaLink="false">episode-2025-08-04-1754319950350</guid>
       <pubDate>Mon, 04 Aug 2025 15:05:50 GMT</pubDate>
       <itunes:duration>00:04:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1GKZ9ALqSVq5pex_81zIrzMju2_E6UIo-/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250804.png" />
     </item>
     <item>
       <title>AI奇妙世界：超级助手、数字管家与未来展望</title>
       <description><![CDATA[播报聚焦AI前沿进展：揭秘微软、Meta等巨头如何构建AI“超级训练营”，提升AI能力；探讨AI如何成为律师、税务专家的高效助手，并担任您的数字管家；介绍谷歌AI的“超级侦探”能力及AI团队协作模式；还分析了AI在网络安全中的作用，以及OpenAI的通用人工智能（AGI）愿景。最后强调了AI领域正吸引大量投资，预示着其在未来的广阔前景和对生活的深远改变。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17642EMK089GuOVQZnS_wFTrgMtmDi70r" type="audio/mpeg" Length="5022720" />
-      <guid>episode-2025-08-05-1754406393300</guid>
+      <itunes:summary><![CDATA[播报聚焦AI前沿进展：揭秘微软、Meta等巨头如何构建AI“超级训练营”，提升AI能力；探讨AI如何成为律师、税务专家的高效助手，并担任您的数字管家；介绍谷歌AI的“超级侦探”能力及AI团队协作模式；还分析了AI在网络安全中的作用，以及OpenAI的通用人工智能（AGI）愿景。最后强调了AI领域正吸引大量投资，预示着其在未来的广阔前景和对生活的深远改变。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17642EMK089GuOVQZnS_wFTrgMtmDi70r" type="audio/mpeg" length="5022720" />
+      <guid isPermaLink="false">episode-2025-08-05-1754406393300</guid>
       <pubDate>Tue, 05 Aug 2025 15:06:33 GMT</pubDate>
       <itunes:duration>00:05:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/188UIdRIw_72blwEYcCBeAJze7_qGDYFn/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250805.png" />
     </item>
     <item>
       <title>AI前沿速递：OpenAI、苹果、马斯克带来哪些重磅惊喜？</title>
       <description><![CDATA[本期聚焦AI前沿进展。OpenAI推出可在设备本地运行的AI模型，提升隐私与离线体验。苹果CEO库克宣布Siri将大升级，目标超越ChatGPT。埃隆·马斯克的Grok展示“想象力”，实现文字生成短视频。谷歌Gemini借助SAGE技术自我学习。AI还积极助力环境保护，并探索稳定AI性格。各大巨头持续投入，预示AI将深刻改变未来。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Lt46PHHqjOVj41xQxSlOBxV2s3ANR-Kq" type="audio/mpeg" Length="5006336" />
-      <guid>episode-2025-08-06-1754492942583</guid>
+      <itunes:summary><![CDATA[本期聚焦AI前沿进展。OpenAI推出可在设备本地运行的AI模型，提升隐私与离线体验。苹果CEO库克宣布Siri将大升级，目标超越ChatGPT。埃隆·马斯克的Grok展示“想象力”，实现文字生成短视频。谷歌Gemini借助SAGE技术自我学习。AI还积极助力环境保护，并探索稳定AI性格。各大巨头持续投入，预示AI将深刻改变未来。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Lt46PHHqjOVj41xQxSlOBxV2s3ANR-Kq" type="audio/mpeg" length="5006336" />
+      <guid isPermaLink="false">episode-2025-08-06-1754492942583</guid>
       <pubDate>Wed, 06 Aug 2025 15:09:02 GMT</pubDate>
       <itunes:duration>00:05:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1leBcswLGwML0pNoVNeIhQqI-1VyyubTJ/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250806.png" />
     </item>
     <item>
       <title>探索AI的奇妙世界：自我进化与应用前瞻</title>
       <description><![CDATA[本期探索AI的奇妙世界。从AI的自我学习（如Meta的AI能设计芯片、创造学习材料），到生成式AI的创作（OpenAI的GPT-5将更强大），再到AI在法律、医学领域的实际应用，深入剖析其发展。提醒听众在使用AI时保持独立思考。内容也提及AI训练所需数据和巨头公司的投资热潮。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eBeHrdOItKiuRmQjl7zNW9bBBcndhLs3" type="audio/mpeg" Length="4968448" />
-      <guid>episode-2025-08-07-1754579257816</guid>
+      <itunes:summary><![CDATA[本期探索AI的奇妙世界。从AI的自我学习（如Meta的AI能设计芯片、创造学习材料），到生成式AI的创作（OpenAI的GPT-5将更强大），再到AI在法律、医学领域的实际应用，深入剖析其发展。提醒听众在使用AI时保持独立思考。内容也提及AI训练所需数据和巨头公司的投资热潮。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1eBeHrdOItKiuRmQjl7zNW9bBBcndhLs3" type="audio/mpeg" length="4968448" />
+      <guid isPermaLink="false">episode-2025-08-07-1754579257816</guid>
       <pubDate>Thu, 07 Aug 2025 15:07:37 GMT</pubDate>
       <itunes:duration>00:05:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1slndpsZdRNXXg3VN7_YFCHdtstS7CogL/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250807.png" />
     </item>
     <item>
       <title>AI超级大脑来袭：GPT-5、团队协作与未来新机遇</title>
       <description><![CDATA[探索AI世界最新突破！OpenAI推出更强大、更可靠的GPT-5，提升学习与解决问题能力。节目揭秘阿里GSPO加速学习法和CoAct-1 AI团队协作系统，以及NVIDIA的硬件助力。同时，探讨AI伦理与人类创意不可替代性，展望AI如何助力未来生活。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wR5Ly4y13G2ingf9GXSNEonoEe40jfXw" type="audio/mpeg" Length="4099584" />
-      <guid>episode-2025-08-08-1754665607313</guid>
+      <itunes:summary><![CDATA[探索AI世界最新突破！OpenAI推出更强大、更可靠的GPT-5，提升学习与解决问题能力。节目揭秘阿里GSPO加速学习法和CoAct-1 AI团队协作系统，以及NVIDIA的硬件助力。同时，探讨AI伦理与人类创意不可替代性，展望AI如何助力未来生活。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wR5Ly4y13G2ingf9GXSNEonoEe40jfXw" type="audio/mpeg" length="4099584" />
+      <guid isPermaLink="false">episode-2025-08-08-1754665607313</guid>
       <pubDate>Fri, 08 Aug 2025 15:06:47 GMT</pubDate>
-      <itunes:duration>256</itunes:duration>
+      <itunes:duration>00:04:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/undefined/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250808.png" />
     </item>
     <item>
       <title>未来世界：AI大厂与创业公司共创魔法</title>
       <description><![CDATA[AI正飞速进化，由谷歌、微软等“大厂”负责基础研究，而创业公司则将这些技术转化为智能汽车、医疗助手等酷炫产品。大厂与创业公司紧密合作，免费分享工具并投资潜力团队，共同推动AI在量子计算、边缘计算等领域的发展，同时强调AI伦理，确保AI造福人类。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1olVqZ3nyHCJJY706nWiRAaVLi88uJGAt" type="audio/mpeg" Length="3830720" />
-      <guid>episode-2025-08-09-1754751870047</guid>
+      <itunes:summary><![CDATA[AI正飞速进化，由谷歌、微软等“大厂”负责基础研究，而创业公司则将这些技术转化为智能汽车、医疗助手等酷炫产品。大厂与创业公司紧密合作，免费分享工具并投资潜力团队，共同推动AI在量子计算、边缘计算等领域的发展，同时强调AI伦理，确保AI造福人类。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1olVqZ3nyHCJJY706nWiRAaVLi88uJGAt" type="audio/mpeg" length="3830720" />
+      <guid isPermaLink="false">episode-2025-08-09-1754751870047</guid>
       <pubDate>Sat, 09 Aug 2025 15:04:30 GMT</pubDate>
       <itunes:duration>00:03:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1u0EjWCxWwOL9fM07bxLcqtUV01Kl8Tym/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250809.png" />
     </item>
     <item>
       <title>AI世界新进展：从智能机器人到超级大脑</title>
       <description><![CDATA[本期节目带你探索AI世界的最新进展。从能自主完成任务的智能无人机和机器人（如大韩航空、谷歌虚拟仓库），到智慧超群的大语言模型（如“博士级”GPT-5和阿里巴巴的“迷你”模型）。AI正通过“专家团队”协作，在各领域大放异彩。AI发展迅猛，人类应学会与AI协作，共同创造更精彩的未来。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AVHEbPB0FLGIMfkmVAgeoyCijnlg01FA" type="audio/mpeg" Length="5217280" />
-      <guid>episode-2025-08-09-1754754346250</guid>
+      <itunes:summary><![CDATA[本期节目带你探索AI世界的最新进展。从能自主完成任务的智能无人机和机器人（如大韩航空、谷歌虚拟仓库），到智慧超群的大语言模型（如“博士级”GPT-5和阿里巴巴的“迷你”模型）。AI正通过“专家团队”协作，在各领域大放异彩。AI发展迅猛，人类应学会与AI协作，共同创造更精彩的未来。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AVHEbPB0FLGIMfkmVAgeoyCijnlg01FA" type="audio/mpeg" length="5217280" />
+      <guid isPermaLink="false">episode-2025-08-09-1754754346250</guid>
       <pubDate>Sat, 09 Aug 2025 15:45:46 GMT</pubDate>
       <itunes:duration>00:05:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1nNY3ESnex228ssVG0bz_OtEg213fgdHC/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250809.png" />
     </item>
     <item>
       <title>探索AI奇妙世界：智能助手与未来创新</title>
       <description><![CDATA[本期播客带你探索人工智能的最新进展！了解AI如何成为高效研究助理，谷歌如何实现AI的极速学习，以及Graph-R1如何确保AI信息真实可靠。我们还将介绍Promptchan如何将文字想法变为炫酷视频，并探讨AI黑客马拉松等行业创新趋势。未来的AI将更智能、更自主，成为你的得力助手。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Dp8Uvn5Z43iDiPOEtrqdAK7vJOJ8dIcO" type="audio/mpeg" Length="4976640" />
-      <guid>episode-2025-08-10-1754838329969</guid>
+      <itunes:summary><![CDATA[本期播客带你探索人工智能的最新进展！了解AI如何成为高效研究助理，谷歌如何实现AI的极速学习，以及Graph-R1如何确保AI信息真实可靠。我们还将介绍Promptchan如何将文字想法变为炫酷视频，并探讨AI黑客马拉松等行业创新趋势。未来的AI将更智能、更自主，成为你的得力助手。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Dp8Uvn5Z43iDiPOEtrqdAK7vJOJ8dIcO" type="audio/mpeg" length="4976640" />
+      <guid isPermaLink="false">episode-2025-08-10-1754838329969</guid>
       <pubDate>Sun, 10 Aug 2025 15:05:29 GMT</pubDate>
-      <itunes:duration>310</itunes:duration>
+      <itunes:duration>00:05:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/undefined/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250810.png" />
     </item>
     <item>
       <title>AI奇迹：从创意电影到智能管家，探索未来科技新篇章</title>
       <description><![CDATA[本期节目带你探索AI在多领域的惊人进展。从字节跳动、MiniMax等公司如何用AI生成高清视频，到中国AI“超级大脑”Kimi K2的协同智能，再到Rillet的AI财务管理系统如何高效理财并吸引大量投资。此外，升级版ChatGPT-5化身“博士级”助手，以及量子雷达和AI山体滑坡预警技术如何保障我们的安全。AI正日益成为解决问题、改善生活的强大工具，未来充满无限可能。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=178XdKNts3GEMzoTjvZSH7c3hvjB3tMeM" type="audio/mpeg" Length="5259264" />
-      <guid>episode-2025-08-11-1754925420175</guid>
+      <itunes:summary><![CDATA[本期节目带你探索AI在多领域的惊人进展。从字节跳动、MiniMax等公司如何用AI生成高清视频，到中国AI“超级大脑”Kimi K2的协同智能，再到Rillet的AI财务管理系统如何高效理财并吸引大量投资。此外，升级版ChatGPT-5化身“博士级”助手，以及量子雷达和AI山体滑坡预警技术如何保障我们的安全。AI正日益成为解决问题、改善生活的强大工具，未来充满无限可能。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=178XdKNts3GEMzoTjvZSH7c3hvjB3tMeM" type="audio/mpeg" length="5259264" />
+      <guid isPermaLink="false">episode-2025-08-11-1754925420175</guid>
       <pubDate>Mon, 11 Aug 2025 15:17:00 GMT</pubDate>
       <itunes:duration>00:05:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/undefined/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250811.png" />
     </item>
     <item>
       <title>AI新技能：未来生活如何被改变？</title>
       <description><![CDATA[本期探索人工智能（AI）的最新进展。AI正化身“时间管家”助你高效管理日常，在法律领域成为“超级律师”高效处理文件。多模态视觉语言模型让AI能理解图像和视频，NVIDIA也为机器人开发智能系统。同时，节目讨论了AI如何通过上下文理解变得更智能，以及GPT-5的进步与局限。AI将改变生活工作，甚至成为编程好帮手。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1D7d5EeDl9ka3PFgdHUDRhpVHAK3lw_4i" type="audio/mpeg" Length="5593088" />
-      <guid>episode-2025-08-12-1755011360414</guid>
+      <itunes:summary><![CDATA[本期探索人工智能（AI）的最新进展。AI正化身“时间管家”助你高效管理日常，在法律领域成为“超级律师”高效处理文件。多模态视觉语言模型让AI能理解图像和视频，NVIDIA也为机器人开发智能系统。同时，节目讨论了AI如何通过上下文理解变得更智能，以及GPT-5的进步与局限。AI将改变生活工作，甚至成为编程好帮手。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1D7d5EeDl9ka3PFgdHUDRhpVHAK3lw_4i" type="audio/mpeg" length="5593088" />
+      <guid isPermaLink="false">episode-2025-08-12-1755011360414</guid>
       <pubDate>Tue, 12 Aug 2025 15:09:20 GMT</pubDate>
       <itunes:duration>00:05:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1mXS1sVTay5-r5T2v_2DtfcCLo2ol9t_m/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250812.png" />
     </item>
     <item>
       <title>AI超能力大爆发：从编程到金融，智能未来已来！</title>
       <description><![CDATA[本期节目探索AI的最新进展，从“打游戏学习”模式看AI智能提升。深入了解AI程序员如何编写和修复代码，以及AI如何成为律师的超级助手。我们还将讨论小型AI在个人设备上的应用，AI安全的重要性，以及金融巨头高盛如何拥抱AI。展望未来，通用人工智能正改变我们的生活，激发无限可能。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KbOMMNVU4vzjvh6VDsad_HQRJpAhQanp" type="audio/mpeg" Length="4371456" />
-      <guid>episode-2025-08-13-1755097733722</guid>
+      <itunes:summary><![CDATA[本期节目探索AI的最新进展，从“打游戏学习”模式看AI智能提升。深入了解AI程序员如何编写和修复代码，以及AI如何成为律师的超级助手。我们还将讨论小型AI在个人设备上的应用，AI安全的重要性，以及金融巨头高盛如何拥抱AI。展望未来，通用人工智能正改变我们的生活，激发无限可能。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KbOMMNVU4vzjvh6VDsad_HQRJpAhQanp" type="audio/mpeg" length="4371456" />
+      <guid isPermaLink="false">episode-2025-08-13-1755097733722</guid>
       <pubDate>Wed, 13 Aug 2025 15:08:53 GMT</pubDate>
-      <itunes:duration>273</itunes:duration>
+      <itunes:duration>00:04:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/13SyNozNhHQIDMoOFz2CrHFiA-ObMnUUO/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250813.png" />
     </item>
     <item>
       <title>AI奇妙世界：智能大升级与未来探索</title>
       <description><![CDATA[本次播报将带你走进AI的奇妙世界。我们将探讨Mistral AI的最新升级，了解AI如何通过强化学习变得更聪明，并如何成为律师等领域的强大助手。同时，我们也将关注AI安全、开源工具、轻量化技术以及AI投资热潮，揭示AI如何改变未来生活，成为我们最棒的伙伴。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ObTgBhsvHq1mUWsR59eMFAwPTqupqm_Z" type="audio/mpeg" Length="4705280" />
-      <guid>episode-2025-08-13-1755099054238</guid>
+      <itunes:summary><![CDATA[本次播报将带你走进AI的奇妙世界。我们将探讨Mistral AI的最新升级，了解AI如何通过强化学习变得更聪明，并如何成为律师等领域的强大助手。同时，我们也将关注AI安全、开源工具、轻量化技术以及AI投资热潮，揭示AI如何改变未来生活，成为我们最棒的伙伴。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ObTgBhsvHq1mUWsR59eMFAwPTqupqm_Z" type="audio/mpeg" length="4705280" />
+      <guid isPermaLink="false">episode-2025-08-13-1755099054238</guid>
       <pubDate>Wed, 13 Aug 2025 15:30:54 GMT</pubDate>
       <itunes:duration>00:04:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/10wGNP3LErc-feQZIgzixQ7JR3ilZk2_o/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250813.png" />
     </item>
     <item>
       <title>AI奇妙故事会：探秘最新AI升级与未来展望</title>
       <description><![CDATA[本期节目带你了解人工智能的最新升级！AI学习方式通过“强化学习”变得更智能，像玩游戏一样能解决复杂问题。AI不再只“读”文字，还能“看懂”图片视频，实现多模态交互。同时，AI在医疗、法律等领域提供强大助力，甚至出现“迷你AI”服务个人。节目还揭示了全球顶级公司对AI的巨额投资，以及未来“通用人工智能”的无限可能。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PHCIzlSHTtDigCOFiaE8UVHWt8gVH3Es" type="audio/mpeg" Length="4680000" />
-      <guid>episode-2025-08-13-1755104800889</guid>
+      <itunes:summary><![CDATA[本期节目带你了解人工智能的最新升级！AI学习方式通过“强化学习”变得更智能，像玩游戏一样能解决复杂问题。AI不再只“读”文字，还能“看懂”图片视频，实现多模态交互。同时，AI在医疗、法律等领域提供强大助力，甚至出现“迷你AI”服务个人。节目还揭示了全球顶级公司对AI的巨额投资，以及未来“通用人工智能”的无限可能。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PHCIzlSHTtDigCOFiaE8UVHWt8gVH3Es" type="audio/mpeg" length="4680000" />
+      <guid isPermaLink="false">episode-2025-08-13-1755104800889</guid>
       <pubDate>Wed, 13 Aug 2025 17:06:40 GMT</pubDate>
       <itunes:duration>00:04:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1kWuJCx10jMEMSupz6G5zARAGqFwxKliR/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250813.png" />
     </item>
     <item>
       <title>AI智能新突破：机器人与智慧大脑的奇妙世界</title>
       <description><![CDATA[本期节目带你探索AI的最新进展！‘智慧大脑’能写故事、解难题，成为万能家庭老师；机器人学会与人合作，在生活和医疗中提供帮助。节目揭示AI通过海量数据学习的秘密，并强调其在医疗、教育、环保等领域的应用潜力。未来AI将深入生活，带来更多便利与精彩。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1y8tT2cyuhGNTbdSvV1kT8P_dY81RHpmp" type="audio/mpeg" Length="2925568" />
-      <guid>episode-2025-08-14-1755184358379</guid>
+      <itunes:summary><![CDATA[本期节目带你探索AI的最新进展！‘智慧大脑’能写故事、解难题，成为万能家庭老师；机器人学会与人合作，在生活和医疗中提供帮助。节目揭示AI通过海量数据学习的秘密，并强调其在医疗、教育、环保等领域的应用潜力。未来AI将深入生活，带来更多便利与精彩。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1y8tT2cyuhGNTbdSvV1kT8P_dY81RHpmp" type="audio/mpeg" length="2925568" />
+      <guid isPermaLink="false">episode-2025-08-14-1755184358379</guid>
       <pubDate>Thu, 14 Aug 2025 15:12:38 GMT</pubDate>
       <itunes:duration>00:03:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1SO0LRZEs4ULUQMe9i3IUResWUOwRRMGK/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250814.png" />
     </item>
     <item>
       <title>AI新纪元：智能助理、代码侦探与未来生活的奇妙变革</title>
       <description><![CDATA[AI正如何改变我们的世界？本期节目带你探索AI在法律、编程和智能物联领域的最新进展。了解谷歌如何用AI助律师提效，字节跳动如何用AI提升代码查找效率，以及边缘计算如何让智能设备更聪明。更重要的是，揭示AI产品成功的秘诀：用户体验、优质数据和信任。AI正在悄然塑造我们的未来生活！]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1H2oG9KoesVewJJs3qctnBlOD_RDJcfO8" type="audio/mpeg" Length="5502976" />
-      <guid>episode-2025-08-14-1755186315168</guid>
+      <itunes:summary><![CDATA[AI正如何改变我们的世界？本期节目带你探索AI在法律、编程和智能物联领域的最新进展。了解谷歌如何用AI助律师提效，字节跳动如何用AI提升代码查找效率，以及边缘计算如何让智能设备更聪明。更重要的是，揭示AI产品成功的秘诀：用户体验、优质数据和信任。AI正在悄然塑造我们的未来生活！]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1H2oG9KoesVewJJs3qctnBlOD_RDJcfO8" type="audio/mpeg" length="5502976" />
+      <guid isPermaLink="false">episode-2025-08-14-1755186315168</guid>
       <pubDate>Thu, 14 Aug 2025 15:45:15 GMT</pubDate>
-      <itunes:duration>343</itunes:duration>
+      <itunes:duration>00:05:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1CeI4TgeEGuq0x2v_tPg9YHivydcJzLoI/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250814.png" />
     </item>
     <item>
       <title>AI科技风云榜：国产AI突围、智能眼镜与数据新革命</title>
       <description><![CDATA[本期探索AI世界的精彩进展！了解国产AI模型DeepSeek如何挑战全球巨头，及其在芯片选择上的挑战。聚焦阿里巴巴夸克AI智能眼镜，看它如何通过人机协同成为生活助手。解析AI训练中新兴的合成数据技术，它如何安全高效地提升AI能力。节目揭示了英伟达、阿里巴巴等巨头对AI的巨大投入，强调AI正真实改变生活，未来将愈发重要。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1w3bJ1_Xwzo3gNBO_F0B4Bg0wu7RpzyEQ" type="audio/mpeg" Length="4274176" />
-      <guid>episode-2025-08-15-1755270812734</guid>
+      <itunes:summary><![CDATA[本期探索AI世界的精彩进展！了解国产AI模型DeepSeek如何挑战全球巨头，及其在芯片选择上的挑战。聚焦阿里巴巴夸克AI智能眼镜，看它如何通过人机协同成为生活助手。解析AI训练中新兴的合成数据技术，它如何安全高效地提升AI能力。节目揭示了英伟达、阿里巴巴等巨头对AI的巨大投入，强调AI正真实改变生活，未来将愈发重要。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1w3bJ1_Xwzo3gNBO_F0B4Bg0wu7RpzyEQ" type="audio/mpeg" length="4274176" />
+      <guid isPermaLink="false">episode-2025-08-15-1755270812734</guid>
       <pubDate>Fri, 15 Aug 2025 15:13:32 GMT</pubDate>
       <itunes:duration>00:04:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1zbRuK39zo7hgq-40NolIz4MMyTc5Hx8Y/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250815.png" />
     </item>
     <item>
       <title>AI奇妙故事会：探索最新AI科技与应用</title>
       <description><![CDATA[欢迎来到“AI奇妙故事会”！本期节目带你探索AI世界的最新进展。我们将介绍能自我学习并挑战自我的R-Zero；像“水晶球”一样预测未来的Moirai 2.0；以及能消除语言障碍的“语言大师”Granary。节目还将探讨AI在性能和公平性方面的持续进步，以及全球对AI的巨大投入。AI正飞速发展，将成为我们生活的重要助手，带来无限可能。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uFXZYW9-EPMwloffKRWY2nYtcLG-IQLi" type="audio/mpeg" Length="5298176" />
-      <guid>episode-2025-08-16-1755357011094</guid>
+      <itunes:summary><![CDATA[欢迎来到“AI奇妙故事会”！本期节目带你探索AI世界的最新进展。我们将介绍能自我学习并挑战自我的R-Zero；像“水晶球”一样预测未来的Moirai 2.0；以及能消除语言障碍的“语言大师”Granary。节目还将探讨AI在性能和公平性方面的持续进步，以及全球对AI的巨大投入。AI正飞速发展，将成为我们生活的重要助手，带来无限可能。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uFXZYW9-EPMwloffKRWY2nYtcLG-IQLi" type="audio/mpeg" length="5298176" />
+      <guid isPermaLink="false">episode-2025-08-16-1755357011094</guid>
       <pubDate>Sat, 16 Aug 2025 15:10:11 GMT</pubDate>
       <itunes:duration>00:05:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1lgfUAxPV-CD8GTQgr14gBfHzp4W6Djho/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250816.png" />
     </item>
     <item>
       <title>AI智慧升级：探索生活中的智能魔法</title>
       <description><![CDATA[本期节目带你探索AI的最新进展，包括其惊人的“超级读写能力”，如何成为你专属的“写作小助手”。还将揭秘亚马逊机器人高效运行的“交通智慧”，谷歌迷你AI如何让手机更聪明，以及旅行达人AI助你规划完美行程。更有智能芯片赋能自动驾驶与机器人，展示AI如何改变未来生活，让一切变得更便捷安全。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1p6_NhKNphkk-kPYrHUW3A2Q-rLR-sU9_" type="audio/mpeg" Length="5011456" />
-      <guid>episode-2025-08-17-1755443650383</guid>
+      <itunes:summary><![CDATA[本期节目带你探索AI的最新进展，包括其惊人的“超级读写能力”，如何成为你专属的“写作小助手”。还将揭秘亚马逊机器人高效运行的“交通智慧”，谷歌迷你AI如何让手机更聪明，以及旅行达人AI助你规划完美行程。更有智能芯片赋能自动驾驶与机器人，展示AI如何改变未来生活，让一切变得更便捷安全。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1p6_NhKNphkk-kPYrHUW3A2Q-rLR-sU9_" type="audio/mpeg" length="5011456" />
+      <guid isPermaLink="false">episode-2025-08-17-1755443650383</guid>
       <pubDate>Sun, 17 Aug 2025 15:14:10 GMT</pubDate>
-      <itunes:duration>313</itunes:duration>
+      <itunes:duration>00:05:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/undefined/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250817.png" />
     </item>
     <item>
       <title>AI世界新动态：从超级眼睛到艺术大师</title>
       <description><![CDATA[本期探索AI最新动态。AI化身“超级眼睛”识别图片文字，还能创作独一无二的画作。随着技术发展，AI使用成本正大幅降低，免费工具涌现。节目深入讲解AI如何通过“强化学习”和“RAG”变得更聪明，并探讨AI公平性、对未来工作的影响及人才培养趋势。AI正深刻改变生活，充满无限可能。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jPYumrl2ro8eb3_i9M4gvgxpb7Brx5rd" type="audio/mpeg" Length="3905536" />
-      <guid>episode-2025-08-18-1755529706515</guid>
+      <itunes:summary><![CDATA[本期探索AI最新动态。AI化身“超级眼睛”识别图片文字，还能创作独一无二的画作。随着技术发展，AI使用成本正大幅降低，免费工具涌现。节目深入讲解AI如何通过“强化学习”和“RAG”变得更聪明，并探讨AI公平性、对未来工作的影响及人才培养趋势。AI正深刻改变生活，充满无限可能。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jPYumrl2ro8eb3_i9M4gvgxpb7Brx5rd" type="audio/mpeg" length="3905536" />
+      <guid isPermaLink="false">episode-2025-08-18-1755529706515</guid>
       <pubDate>Mon, 18 Aug 2025 15:08:26 GMT</pubDate>
-      <itunes:duration>244</itunes:duration>
+      <itunes:duration>00:04:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1UZo7yGS6oEYA00WevjDGELDgodXIsI-Y/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250818.png" />
     </item>
     <item>
       <title>AI每日奇闻：大脑侦探、魔法画笔与理财高手</title>
       <description><![CDATA[本期“AI解密官”带你探索AI世界的最新进展！AI化身“大脑侦探”，助力早期识别学习障碍与自闭症；阿里巴巴推出“魔法画笔”Qwen-Image-Edit，实现智能P图和细节修改；黑石“AlphaAgents”AI团队则成为高效理财帮手。还有Perplexity AI欲购谷歌的趣闻，展现AI巨大影响力！]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19aoSnaRM8tUo7ZV9PLU3N9nSoTyZl9Na" type="audio/mpeg" Length="4822016" />
-      <guid>episode-2025-08-19-1755618591360</guid>
+      <itunes:summary><![CDATA[本期“AI解密官”带你探索AI世界的最新进展！AI化身“大脑侦探”，助力早期识别学习障碍与自闭症；阿里巴巴推出“魔法画笔”Qwen-Image-Edit，实现智能P图和细节修改；黑石“AlphaAgents”AI团队则成为高效理财帮手。还有Perplexity AI欲购谷歌的趣闻，展现AI巨大影响力！]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19aoSnaRM8tUo7ZV9PLU3N9nSoTyZl9Na" type="audio/mpeg" length="4822016" />
+      <guid isPermaLink="false">episode-2025-08-19-1755618591360</guid>
       <pubDate>Tue, 19 Aug 2025 15:49:51 GMT</pubDate>
       <itunes:duration>00:05:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1Cm_yTyvNlsGwhZIhk_hBnvZg77djcFU1/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250819.png" />
     </item>
     <item>
       <title>AI魔法揭秘：CoPilot、英伟达芯片与智能未来</title>
       <description><![CDATA[本期节目带你探索人工智能的最新进展！我们揭秘了Excel中的智能助手CoPilot如何简化数据处理，英伟达如何打造强大的AI大脑，以及能看听记的M3-Agent如何预示未来类人机器人。同时，还介绍了AI绘画的魔法，并提醒大家关注版权。最后探讨了AI投资热潮及其无限未来。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aZgGESkdi44GrtM0EJq9bYbe3h-H_OtC" type="audio/mpeg" Length="4935680" />
-      <guid>episode-2025-08-20-1755704343012</guid>
+      <itunes:summary><![CDATA[本期节目带你探索人工智能的最新进展！我们揭秘了Excel中的智能助手CoPilot如何简化数据处理，英伟达如何打造强大的AI大脑，以及能看听记的M3-Agent如何预示未来类人机器人。同时，还介绍了AI绘画的魔法，并提醒大家关注版权。最后探讨了AI投资热潮及其无限未来。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aZgGESkdi44GrtM0EJq9bYbe3h-H_OtC" type="audio/mpeg" length="4935680" />
+      <guid isPermaLink="false">episode-2025-08-20-1755704343012</guid>
       <pubDate>Wed, 20 Aug 2025 15:39:03 GMT</pubDate>
       <itunes:duration>00:05:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1Fy4u9Xs3xeQwCM0YkVCUZ52Uw0U4G94U/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250820.png" />
     </item>
     <item>
       <title>AI奇妙世界：探索人工智能最新进展</title>
       <description><![CDATA[本期播客带你走进“AI奇妙世界”，探索人工智能的最新进展。从文字生成代码的DeepCode，到推理编程兼备的DeepSeek-V3.1，以及加速AI训练的ZenFlow技术。我们还将了解全球AI发展趋势、智能代理、视觉语言模型、人机协作、机器人集体智能，以及AI如何改变保险业和阅读习惯。AI正成为人类的好帮手，让生活更美好。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=190b7cs0lpVatH5HCREpCJgG5zoIDFIEi" type="audio/mpeg" Length="7887872" />
-      <guid>episode-2025-08-21-1755789118408</guid>
+      <itunes:summary><![CDATA[本期播客带你走进“AI奇妙世界”，探索人工智能的最新进展。从文字生成代码的DeepCode，到推理编程兼备的DeepSeek-V3.1，以及加速AI训练的ZenFlow技术。我们还将了解全球AI发展趋势、智能代理、视觉语言模型、人机协作、机器人集体智能，以及AI如何改变保险业和阅读习惯。AI正成为人类的好帮手，让生活更美好。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=190b7cs0lpVatH5HCREpCJgG5zoIDFIEi" type="audio/mpeg" length="7887872" />
+      <guid isPermaLink="false">episode-2025-08-21-1755789118408</guid>
       <pubDate>Thu, 21 Aug 2025 15:11:58 GMT</pubDate>
       <itunes:duration>00:08:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1UC71NFndPQeZ-PAvvDwga2WtLH68f0x2/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250821.png" />
     </item>
     <item>
       <title>AI奇迹：从虚拟销售到科研，科技重塑生活</title>
       <description><![CDATA[本期节目带您探索AI如何深入改变生活：从24小时在线的虚拟销售员，到强大的AI服务器驱动未来科技；揭秘谷歌办公软件的AI魔法，AI如何重塑声音、提升效率，甚至自己搞科研、保障安全。展望AI与你我共创的智慧未来！]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PPBkYj71Etv1EE5aFXRGutfrIwwnSJP5" type="audio/mpeg" Length="5835776" />
-      <guid>episode-2025-08-22-1755875666215</guid>
+      <itunes:summary><![CDATA[本期节目带您探索AI如何深入改变生活：从24小时在线的虚拟销售员，到强大的AI服务器驱动未来科技；揭秘谷歌办公软件的AI魔法，AI如何重塑声音、提升效率，甚至自己搞科研、保障安全。展望AI与你我共创的智慧未来！]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PPBkYj71Etv1EE5aFXRGutfrIwwnSJP5" type="audio/mpeg" length="5835776" />
+      <guid isPermaLink="false">episode-2025-08-22-1755875666215</guid>
       <pubDate>Fri, 22 Aug 2025 15:14:26 GMT</pubDate>
       <itunes:duration>00:06:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/undefined/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250822.png" />
     </item>
     <item>
       <title>AI奇妙世界：智能机器人、艺术创作与未来生活</title>
       <description><![CDATA[本期节目带您探索AI最新进展：DHL仓库的智能机器人提升物流效率，Meta与Midjourney合作解锁AI艺术创作新维度，智能语音助手日益贴心。AI还在医疗健康领域发挥预测作用，并逐步融入企业发展。AI不仅是技术，也给我们的生活带来陪伴与无限可能。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yR6xSbmDCrXnHtrbim1RDkJ43gRHDoWz" type="audio/mpeg" Length="4105216" />
-      <guid>episode-2025-08-23-1755963231776</guid>
+      <itunes:summary><![CDATA[本期节目带您探索AI最新进展：DHL仓库的智能机器人提升物流效率，Meta与Midjourney合作解锁AI艺术创作新维度，智能语音助手日益贴心。AI还在医疗健康领域发挥预测作用，并逐步融入企业发展。AI不仅是技术，也给我们的生活带来陪伴与无限可能。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yR6xSbmDCrXnHtrbim1RDkJ43gRHDoWz" type="audio/mpeg" length="4105216" />
+      <guid isPermaLink="false">episode-2025-08-23-1755963231776</guid>
       <pubDate>Sat, 23 Aug 2025 15:33:51 GMT</pubDate>
       <itunes:duration>00:04:16</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1TEsPay4H8K8MreyPTh_9Yl4Z7QYLE7DX/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250823.png" />
     </item>
     <item>
       <title>AI人工智能新发现：数据压缩、智能学习与未来应用</title>
       <description><![CDATA[本期，小探险家带你探索AI人工智能的最新进展。包括GPZ数字压缩技术提升效率，Prefix-RFT让AI学习更智能，图结构AI代理处理复杂任务，以及JSON提示优化人机交互。此外，还介绍了AI写作助手、智能数据库、AI医疗应用和企业如何布局AI，展望AI的无限可能。]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ei01YzDvB03irQZ5DxHHfTnyM8iQA3AT" type="audio/mpeg" Length="5685248" />
-      <guid>episode-2025-08-24-1756048197092</guid>
+      <itunes:summary><![CDATA[本期，小探险家带你探索AI人工智能的最新进展。包括GPZ数字压缩技术提升效率，Prefix-RFT让AI学习更智能，图结构AI代理处理复杂任务，以及JSON提示优化人机交互。此外，还介绍了AI写作助手、智能数据库、AI医疗应用和企业如何布局AI，展望AI的无限可能。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ei01YzDvB03irQZ5DxHHfTnyM8iQA3AT" type="audio/mpeg" length="5685248" />
+      <guid isPermaLink="false">episode-2025-08-24-1756048197092</guid>
       <pubDate>Sun, 24 Aug 2025 15:09:57 GMT</pubDate>
       <itunes:duration>00:05:55</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/1v-vUGmE-5EdKfA93SVksoK_E_rxK8u_c/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250824.png" />
     </item>
     <item>
       <title>AI魔法来袭：探索智能世界的最新奇遇</title>
       <description><![CDATA[各位好奇宝宝，快来探险！本期节目带你了解AI如何让手机更智能、帮助大人处理邮件、保障工厂安全、创造超级塑料、提升学习效率。我们还会揭示AI“大脑”的强大力量，并提醒大家警惕AI假新闻的挑战。一起探索AI的未来吧！]]></description>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1b8WCXpn1msNEN9sxhVZ27AQtAwSqQrGe" type="audio/mpeg" Length="4926464" />
-      <guid>episode-2025-08-25-1756134795904</guid>
+      <itunes:summary><![CDATA[各位好奇宝宝，快来探险！本期节目带你了解AI如何让手机更智能、帮助大人处理邮件、保障工厂安全、创造超级塑料、提升学习效率。我们还会揭示AI“大脑”的强大力量，并提醒大家警惕AI假新闻的挑战。一起探索AI的未来吧！]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1b8WCXpn1msNEN9sxhVZ27AQtAwSqQrGe" type="audio/mpeg" length="4926464" />
+      <guid isPermaLink="false">episode-2025-08-25-1756134795904</guid>
       <pubDate>Mon, 25 Aug 2025 15:13:15 GMT</pubDate>
-      <itunes:duration>307</itunes:duration>
+      <itunes:duration>00:05:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://drive.google.com/file/d/undefined/view" />
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_20250825.png" />
     </item>
   </channel>
 </rss>
