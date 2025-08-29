@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Thu, 28 Aug 2025 15:46:36 GMT</pubDate>
-    <lastBuildDate>Thu, 28 Aug 2025 15:46:36 GMT</lastBuildDate>
+    <pubDate>Fri, 29 Aug 2025 15:13:35 GMT</pubDate>
+    <lastBuildDate>Fri, 29 Aug 2025 15:13:35 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -555,6 +555,17 @@
       <itunes:duration>00:05:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-08-28.png" />
+    </item>
+    <item>
+      <title>AI奇妙世界：机器人送餐到超级大脑，AI如何改变生活？</title>
+      <description><![CDATA[本期节目带你探索AI的奇妙世界。从瑞士的机器人送餐员到智能音箱的听懂能力提升，再到AI拥有“超级记忆大脑”辅助学习与法律工作。我们还介绍了能自主思考的Agentic AI。同时，节目也探讨了AI应用中的挑战与信任问题，强调人类智慧引导AI的重要性，以及如何在创新中保持公平与透明。]]></description>
+      <itunes:summary><![CDATA[本期节目带你探索AI的奇妙世界。从瑞士的机器人送餐员到智能音箱的听懂能力提升，再到AI拥有“超级记忆大脑”辅助学习与法律工作。我们还介绍了能自主思考的Agentic AI。同时，节目也探讨了AI应用中的挑战与信任问题，强调人类智慧引导AI的重要性，以及如何在创新中保持公平与透明。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sHAtycinwuKuBZRhbvQh27I7Hw5mnRjE" type="audio/mpeg" length="4582701" />
+      <guid isPermaLink="false">episode-2025-08-29-1756479971796</guid>
+      <pubDate>Fri, 29 Aug 2025 15:06:11 GMT</pubDate>
+      <itunes:duration>00:04:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-08-29.png" />
     </item>
   </channel>
 </rss>
