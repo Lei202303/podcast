@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Oct 2025 14:55:13 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2025 14:55:13 GMT</lastBuildDate>
+    <pubDate>Mon, 13 Oct 2025 15:11:16 GMT</pubDate>
+    <lastBuildDate>Mon, 13 Oct 2025 15:11:16 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1061,6 +1061,17 @@
       <itunes:duration>00:06:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-12.png" />
+    </item>
+    <item>
+      <title>Sora魔法拍电影：AI自主代理、芯片大升级与自动驾驶安全卫士</title>
+      <description><![CDATA[本期节目揭秘AI领域的四大前沿突破。首先探讨“超级视频魔术师”Sora如何将视频创作门槛降到最低，以及随之而来的深度伪造挑战。接着分析AI所需的巨大算力，探讨OpenAI与博通的合作，以及DRAM等存储芯片市场的潜在爆发。最后，介绍能自我决策的“自主智能代理”（Agentic AI）在法律和零售业的应用，以及AI如何充当自动驾驶汽车的安全卫士。]]></description>
+      <itunes:summary><![CDATA[本期节目揭秘AI领域的四大前沿突破。首先探讨“超级视频魔术师”Sora如何将视频创作门槛降到最低，以及随之而来的深度伪造挑战。接着分析AI所需的巨大算力，探讨OpenAI与博通的合作，以及DRAM等存储芯片市场的潜在爆发。最后，介绍能自我决策的“自主智能代理”（Agentic AI）在法律和零售业的应用，以及AI如何充当自动驾驶汽车的安全卫士。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hvv1Mr1hffSi_re_NJGvpj45RFUwyOaL" type="audio/mpeg" length="5538093" />
+      <guid isPermaLink="false">episode-2025-10-13-1760367149365</guid>
+      <pubDate>Mon, 13 Oct 2025 14:52:29 GMT</pubDate>
+      <itunes:duration>00:05:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-13.png" />
     </item>
   </channel>
 </rss>
