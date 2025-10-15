@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Mon, 13 Oct 2025 15:11:16 GMT</pubDate>
-    <lastBuildDate>Mon, 13 Oct 2025 15:11:16 GMT</lastBuildDate>
+    <pubDate>Wed, 15 Oct 2025 15:04:48 GMT</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 15:04:48 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1072,6 +1072,17 @@
       <itunes:duration>00:05:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-13.png" />
+    </item>
+    <item>
+      <title>Google“纳诺香蕉”与微软“魔法画笔”：揭秘下一代AI图像生成和边缘计算平台</title>
+      <description><![CDATA[本期聚焦前沿AI科技魔法：包括Google的图像生成助手“纳诺香蕉”（Nano Banana），微软强大的文字转图像AI“MAI-Image-1”，以及阿里巴巴轻巧节能的Qwen3-VL模型。同时，我们探讨了Google的边缘AI平台Coral NPU如何实现设备本地智能，以及NVIDIA、Oracle等科技巨头在企业级AI服务上的最新布局，展望AI在生活和专业领域的无限可能。]]></description>
+      <itunes:summary><![CDATA[本期聚焦前沿AI科技魔法：包括Google的图像生成助手“纳诺香蕉”（Nano Banana），微软强大的文字转图像AI“MAI-Image-1”，以及阿里巴巴轻巧节能的Qwen3-VL模型。同时，我们探讨了Google的边缘AI平台Coral NPU如何实现设备本地智能，以及NVIDIA、Oracle等科技巨头在企业级AI服务上的最新布局，展望AI在生活和专业领域的无限可能。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CnDjX_XAkgfqMzJGIBKwtz-lgQzEiyiH" type="audio/mpeg" length="4317741" />
+      <guid isPermaLink="false">episode-2025-10-15-1760540011567</guid>
+      <pubDate>Wed, 15 Oct 2025 14:53:31 GMT</pubDate>
+      <itunes:duration>00:04:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-15.png" />
     </item>
   </channel>
 </rss>
