@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Mon, 20 Oct 2025 15:31:14 GMT</pubDate>
-    <lastBuildDate>Mon, 20 Oct 2025 15:31:14 GMT</lastBuildDate>
+    <pubDate>Tue, 21 Oct 2025 16:26:46 GMT</pubDate>
+    <lastBuildDate>Tue, 21 Oct 2025 16:26:46 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1127,6 +1127,17 @@
       <itunes:duration>00:04:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-20.png" />
+    </item>
+    <item>
+      <title>AI魔法：超级文书机甲、微观侦探与本地隐私保镖</title>
+      <description><![CDATA[本期关注AI对世界的颠覆性变化。AI正用于将海量文档高速压缩并准确处理，极大提高企业效率。在健康领域，AI化身微观侦探，能够提前发现并预测细胞中的遗传变异。此外，强大的AI模型正在“搬家”到用户本地电脑，提供隐私保护和极速体验。互联网上Bot流量占比已过半，且出现了自运行网站。最后讨论了通过“AI音量旋钮”等方式，实现人机共治。]]></description>
+      <itunes:summary><![CDATA[本期关注AI对世界的颠覆性变化。AI正用于将海量文档高速压缩并准确处理，极大提高企业效率。在健康领域，AI化身微观侦探，能够提前发现并预测细胞中的遗传变异。此外，强大的AI模型正在“搬家”到用户本地电脑，提供隐私保护和极速体验。互联网上Bot流量占比已过半，且出现了自运行网站。最后讨论了通过“AI音量旋钮”等方式，实现人机共治。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=148g_cUJ3BuBAAMcCZs1hVk5cZOLhh4Fy" type="audio/mpeg" length="5732013" />
+      <guid isPermaLink="false">episode-2025-10-21-1761063503825</guid>
+      <pubDate>Tue, 21 Oct 2025 16:18:23 GMT</pubDate>
+      <itunes:duration>00:05:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-21.png" />
     </item>
   </channel>
 </rss>
