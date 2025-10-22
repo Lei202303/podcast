@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Tue, 21 Oct 2025 16:26:46 GMT</pubDate>
-    <lastBuildDate>Tue, 21 Oct 2025 16:26:46 GMT</lastBuildDate>
+    <pubDate>Wed, 22 Oct 2025 14:54:55 GMT</pubDate>
+    <lastBuildDate>Wed, 22 Oct 2025 14:54:55 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1138,6 +1138,17 @@
       <itunes:duration>00:05:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-21.png" />
+    </item>
+    <item>
+      <title>AI导演电影、特种部队协作、数字安全危机：未来世界一周AI秘密报告</title>
+      <description><![CDATA[本期揭秘AI世界的最新进展。从能与OpenAI Sora抗衡的中国AI视频模型Vidu Q2，到学会分工协作的“多智能体”AI特种部队，它们正在重塑电影制作和企业流程。同时，警惕AI通信中的“提示劫持”安全漏洞。AI还深入金融、IT、医疗等硬核领域，成为人类的超级助手，但涉及道德和人性的最终判决权仍属于人类。]]></description>
+      <itunes:summary><![CDATA[本期揭秘AI世界的最新进展。从能与OpenAI Sora抗衡的中国AI视频模型Vidu Q2，到学会分工协作的“多智能体”AI特种部队，它们正在重塑电影制作和企业流程。同时，警惕AI通信中的“提示劫持”安全漏洞。AI还深入金融、IT、医疗等硬核领域，成为人类的超级助手，但涉及道德和人性的最终判决权仍属于人类。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZE5jszSYmAp6o0XmxE0N32L5I-yssTcw" type="audio/mpeg" length="6164013" />
+      <guid isPermaLink="false">episode-2025-10-22-1761144620576</guid>
+      <pubDate>Wed, 22 Oct 2025 14:50:20 GMT</pubDate>
+      <itunes:duration>00:06:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-22.png" />
     </item>
   </channel>
 </rss>
