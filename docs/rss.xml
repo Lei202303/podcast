@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Thu, 23 Oct 2025 15:33:20 GMT</pubDate>
-    <lastBuildDate>Thu, 23 Oct 2025 15:33:20 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Oct 2025 14:59:48 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Oct 2025 14:59:48 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1160,6 +1160,17 @@
       <itunes:duration>00:06:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-23.png" />
+    </item>
+    <item>
+      <title>AI周报：超级芯片发电厂、一键生成好莱坞电影与AI代理时代</title>
+      <description><![CDATA[本期聚焦AI的惊人进展：Anthropic等巨头正疯狂建造由TPU组成的“AI发电厂”，但能源消耗成为巨大挑战。同时，Lightricks推出LTX-2，实现不到5秒生成4K视频。AI代理（如Salesforce WALT）学会自主上网执行复杂任务，效率翻倍。最后介绍谷歌的FLAME闪电学习法，大幅降低模型训练成本。]]></description>
+      <itunes:summary><![CDATA[本期聚焦AI的惊人进展：Anthropic等巨头正疯狂建造由TPU组成的“AI发电厂”，但能源消耗成为巨大挑战。同时，Lightricks推出LTX-2，实现不到5秒生成4K视频。AI代理（如Salesforce WALT）学会自主上网执行复杂任务，效率翻倍。最后介绍谷歌的FLAME闪电学习法，大幅降低模型训练成本。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=19F70e2gY7e3EW7nMsfj9-ZNL0VOLDddA" type="audio/mpeg" length="4783533" />
+      <guid isPermaLink="false">episode-2025-10-24-1761317643536</guid>
+      <pubDate>Fri, 24 Oct 2025 14:54:03 GMT</pubDate>
+      <itunes:duration>00:04:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-24.png" />
     </item>
   </channel>
 </rss>
