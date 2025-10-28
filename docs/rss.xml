@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Mon, 27 Oct 2025 16:14:07 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Oct 2025 16:14:07 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Oct 2025 17:57:55 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Oct 2025 17:57:55 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1204,6 +1204,17 @@
       <itunes:duration>00:06:15</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-27.png" />
+    </item>
+    <item>
+      <title>AI创意升级、超级记忆术：当AI进入金融圈炒股并画上安全红线</title>
+      <description><![CDATA[创意软件Adobe Firefly升级，成为能学习用户风格的“创意对话伙伴”。中国公司发明“Glyph”框架，实现长文本高速压缩，使AI阅读速度提高四倍。在金融领域，伦敦证券交易所引入AI Claude进行数据分析和研究报告撰写。同时，行业呼吁为AI设置道德红线，确保人类对AI工具拥有最终控制权。]]></description>
+      <itunes:summary><![CDATA[创意软件Adobe Firefly升级，成为能学习用户风格的“创意对话伙伴”。中国公司发明“Glyph”框架，实现长文本高速压缩，使AI阅读速度提高四倍。在金融领域，伦敦证券交易所引入AI Claude进行数据分析和研究报告撰写。同时，行业呼吁为AI设置道德红线，确保人类对AI工具拥有最终控制权。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wb5PlI7CxSWGWFULaF6BPPFwMhq3vWCj" type="audio/mpeg" length="4130349" />
+      <guid isPermaLink="false">episode-2025-10-28-1761673971864</guid>
+      <pubDate>Tue, 28 Oct 2025 17:52:51 GMT</pubDate>
+      <itunes:duration>00:04:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-28.png" />
     </item>
   </channel>
 </rss>
