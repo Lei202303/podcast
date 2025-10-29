@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Tue, 28 Oct 2025 17:57:55 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Oct 2025 17:57:55 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Oct 2025 17:27:44 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Oct 2025 17:27:44 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1215,6 +1215,17 @@
       <itunes:duration>00:04:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-28.png" />
+    </item>
+    <item>
+      <title>AI记忆力大增、效率加倍：视觉压缩、MoE专家与边缘特工机器人</title>
+      <description><![CDATA[本期节目聚焦AI技术的飞速发展。工程师们通过“视觉压缩”技术解决了AI的健忘症，使其能记住更复杂的对话。同时，采用“专家混合体”（MoE）架构，让AI运行更快、成本更低。此外，“AI代理”开始在边缘设备上独立执行多步骤任务。最后，行业正在加强AI安全护栏和制定“交通法规”，确保技术安全可靠。]]></description>
+      <itunes:summary><![CDATA[本期节目聚焦AI技术的飞速发展。工程师们通过“视觉压缩”技术解决了AI的健忘症，使其能记住更复杂的对话。同时，采用“专家混合体”（MoE）架构，让AI运行更快、成本更低。此外，“AI代理”开始在边缘设备上独立执行多步骤任务。最后，行业正在加强AI安全护栏和制定“交通法规”，确保技术安全可靠。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aDLMeDbnVytUkOzXVU962cFoEPvWCNd0" type="audio/mpeg" length="5316141" />
+      <guid isPermaLink="false">episode-2025-10-29-1761749090672</guid>
+      <pubDate>Wed, 29 Oct 2025 14:44:50 GMT</pubDate>
+      <itunes:duration>00:05:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-29.png" />
     </item>
   </channel>
 </rss>
