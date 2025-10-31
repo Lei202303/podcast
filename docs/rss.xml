@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Thu, 30 Oct 2025 17:31:40 GMT</pubDate>
-    <lastBuildDate>Thu, 30 Oct 2025 17:31:40 GMT</lastBuildDate>
+    <pubDate>Fri, 31 Oct 2025 14:56:34 GMT</pubDate>
+    <lastBuildDate>Fri, 31 Oct 2025 14:56:34 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1237,6 +1237,17 @@
       <itunes:duration>00:06:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-30.png" />
+    </item>
+    <item>
+      <title>AI超级助手来袭：揭秘AI脑力管家、灵巧机器人与虚拟训练场</title>
+      <description><![CDATA[AI正在全方位改变我们的世界！本集探讨AI领域三大进展：能自主规划和执行任务的“脑力管家”（AI Agent）；实现精细操作，能够叠毛巾和修理电路板的“灵巧机器人”；以及加速AI学习速度的“魔法训练场”——虚拟模拟技术。了解顶尖科学家如何将科幻变为现实。]]></description>
+      <itunes:summary><![CDATA[AI正在全方位改变我们的世界！本集探讨AI领域三大进展：能自主规划和执行任务的“脑力管家”（AI Agent）；实现精细操作，能够叠毛巾和修理电路板的“灵巧机器人”；以及加速AI学习速度的“魔法训练场”——虚拟模拟技术。了解顶尖科学家如何将科幻变为现实。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AU7k1ymWb1dWMSch1SBO3YXEQpxiYIay" type="audio/mpeg" length="4566189" />
+      <guid isPermaLink="false">episode-2025-10-31-1761922258731</guid>
+      <pubDate>Fri, 31 Oct 2025 14:50:58 GMT</pubDate>
+      <itunes:duration>00:04:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-10-31.png" />
     </item>
   </channel>
 </rss>
