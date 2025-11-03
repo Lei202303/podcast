@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Sun, 02 Nov 2025 15:42:14 GMT</pubDate>
-    <lastBuildDate>Sun, 02 Nov 2025 15:42:14 GMT</lastBuildDate>
+    <pubDate>Mon, 03 Nov 2025 16:05:50 GMT</pubDate>
+    <lastBuildDate>Mon, 03 Nov 2025 16:05:50 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1270,6 +1270,17 @@
       <itunes:duration>00:06:01</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-02.png" />
+    </item>
+    <item>
+      <title>AI超级进化：芯片液冷、长尾猫多模态与自主代理的全面崛起</title>
+      <description><![CDATA[AI正经历史诗级进化！本期揭秘AI幕后世界：高通AI芯片采用液冷技术，AWS与OpenAI强强联手推动“主权AI”战略。技术上，“长尾猫”等全模态AI通过MoE技术实现跨感官理解和超长记忆。此外，能独立完成复杂任务的“自主代理”正接管工作。最后关注FTC对虚假AI宣传的监管，以及环保常温炼铜的黑科技。]]></description>
+      <itunes:summary><![CDATA[AI正经历史诗级进化！本期揭秘AI幕后世界：高通AI芯片采用液冷技术，AWS与OpenAI强强联手推动“主权AI”战略。技术上，“长尾猫”等全模态AI通过MoE技术实现跨感官理解和超长记忆。此外，能独立完成复杂任务的“自主代理”正接管工作。最后关注FTC对虚假AI宣传的监管，以及环保常温炼铜的黑科技。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LKvk07SoT0UaZSKeSqivAX344z5KIoJd" type="audio/mpeg" length="5746221" />
+      <guid isPermaLink="false">episode-2025-11-03-1762185662071</guid>
+      <pubDate>Mon, 03 Nov 2025 16:01:02 GMT</pubDate>
+      <itunes:duration>00:05:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-03.png" />
     </item>
   </channel>
 </rss>
