@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Mon, 03 Nov 2025 16:05:50 GMT</pubDate>
-    <lastBuildDate>Mon, 03 Nov 2025 16:05:50 GMT</lastBuildDate>
+    <pubDate>Tue, 04 Nov 2025 16:06:09 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Nov 2025 16:06:09 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1281,6 +1281,17 @@
       <itunes:duration>00:05:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-03.png" />
+    </item>
+    <item>
+      <title>AI加速：路由器升级NPU、牙齿矫正15分钟、Sora进入商业化时代</title>
+      <description><![CDATA[AI正以前所未有的速度渗透生活。家里的华硕路由器有了NPU，让游戏延迟降低三成；牙科AI能在15分钟内生成精准矫正方案。此外，大型AI开始通过“缓存直通车”实现心意相通，合作效率翻倍。随着Sora进入付费时代，OpenAI正斥巨资建立“AI超级大楼”，确保强大的计算力。同时提醒，AI安全警惕性不容放松。]]></description>
+      <itunes:summary><![CDATA[AI正以前所未有的速度渗透生活。家里的华硕路由器有了NPU，让游戏延迟降低三成；牙科AI能在15分钟内生成精准矫正方案。此外，大型AI开始通过“缓存直通车”实现心意相通，合作效率翻倍。随着Sora进入付费时代，OpenAI正斥巨资建立“AI超级大楼”，确保强大的计算力。同时提醒，AI安全警惕性不容放松。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17EKip1l43KAfrBOhsM7oqt6InX9BydfP" type="audio/mpeg" length="5498541" />
+      <guid isPermaLink="false">episode-2025-11-04-1762272142490</guid>
+      <pubDate>Tue, 04 Nov 2025 16:02:22 GMT</pubDate>
+      <itunes:duration>00:05:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-04.png" />
     </item>
   </channel>
 </rss>
