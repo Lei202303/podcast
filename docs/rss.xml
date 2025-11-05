@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Tue, 04 Nov 2025 16:06:09 GMT</pubDate>
-    <lastBuildDate>Tue, 04 Nov 2025 16:06:09 GMT</lastBuildDate>
+    <pubDate>Wed, 05 Nov 2025 16:14:04 GMT</pubDate>
+    <lastBuildDate>Wed, 05 Nov 2025 16:14:04 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1292,6 +1292,17 @@
       <itunes:duration>00:05:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-04.png" />
+    </item>
+    <item>
+      <title>电脑有了“记忆”和“眼睛”？详解AI智能代理、谷歌捕日者计划与量子革命。</title>
+      <description><![CDATA[智能代理正赋予电脑“记忆”和“眼睛”，实现网页“自动驾驶”。本期深入解析谷歌的“捕日者计划”，如何将AI数据中心送上月球轨道，用激光传输数据。同时探讨AI-PC发展趋势、量子计算的革命性潜力，以及AI面临的安全挑战与全球气候工程的治理难题。]]></description>
+      <itunes:summary><![CDATA[智能代理正赋予电脑“记忆”和“眼睛”，实现网页“自动驾驶”。本期深入解析谷歌的“捕日者计划”，如何将AI数据中心送上月球轨道，用激光传输数据。同时探讨AI-PC发展趋势、量子计算的革命性潜力，以及AI面临的安全挑战与全球气候工程的治理难题。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1x5MusaW2OXLu4TgHoIXHhQR3eNsin2N9" type="audio/mpeg" length="4838829" />
+      <guid isPermaLink="false">episode-2025-11-05-1762358777909</guid>
+      <pubDate>Wed, 05 Nov 2025 16:06:17 GMT</pubDate>
+      <itunes:duration>00:05:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-05.png" />
     </item>
   </channel>
 </rss>
