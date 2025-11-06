@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Wed, 05 Nov 2025 16:14:04 GMT</pubDate>
-    <lastBuildDate>Wed, 05 Nov 2025 16:14:04 GMT</lastBuildDate>
+    <pubDate>Thu, 06 Nov 2025 16:18:51 GMT</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2025 16:18:51 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1303,6 +1303,17 @@
       <itunes:duration>00:05:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-05.png" />
+    </item>
+    <item>
+      <title>AI的秘密基地：Siri超级脑力移植、机器人具身学习与量子纠错最新进展</title>
+      <description><![CDATA[本期节目带您探索AI的最新进展。从“超级个性化”（PPP）训练方法，让Siri等语音助手拥有“私人管家”般的体贴能力，到机器人通过“亲身体验式学习”变得更灵活。我们还将了解量子计算机的“自动纠错”系统如何提高稳定性，以及AI世界如何应对“提示注入”安全漏洞和巨大的能耗问题。思考：AI是工具，还是工作者？]]></description>
+      <itunes:summary><![CDATA[本期节目带您探索AI的最新进展。从“超级个性化”（PPP）训练方法，让Siri等语音助手拥有“私人管家”般的体贴能力，到机器人通过“亲身体验式学习”变得更灵活。我们还将了解量子计算机的“自动纠错”系统如何提高稳定性，以及AI世界如何应对“提示注入”安全漏洞和巨大的能耗问题。思考：AI是工具，还是工作者？]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1f-XLzOmeVtH_Jlhe28U9wV0RNrRC8zdL" type="audio/mpeg" length="6321069" />
+      <guid isPermaLink="false">episode-2025-11-06-1762445648774</guid>
+      <pubDate>Thu, 06 Nov 2025 16:14:08 GMT</pubDate>
+      <itunes:duration>00:06:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-06.png" />
     </item>
   </channel>
 </rss>
