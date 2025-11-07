@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Thu, 06 Nov 2025 16:18:51 GMT</pubDate>
-    <lastBuildDate>Thu, 06 Nov 2025 16:18:51 GMT</lastBuildDate>
+    <pubDate>Fri, 07 Nov 2025 16:12:25 GMT</pubDate>
+    <lastBuildDate>Fri, 07 Nov 2025 16:12:25 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1314,6 +1314,17 @@
       <itunes:duration>00:06:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-06.png" />
+    </item>
+    <item>
+      <title>揭秘未来AI：比超级计算机快1.3万倍？超级管家和口袋里的4K艺术室</title>
+      <description><![CDATA[本期节目探索AI的最新突破。我们讨论了谷歌“量子回声”算法如何将计算速度提升1.3万倍，为新药研发提速。同时，深度解析拥有超强上下文记忆力的AI代理（如Kimi），它们能自行制定并执行数百个步骤的复杂计划。此外，还介绍了手机上的4K图像生成技术和能以假乱真的AI语音。最后，探讨了构建“人文主义超级智能”，确保AI安全并服务于人类社会，如无人机检查摩天大楼等实际应用。]]></description>
+      <itunes:summary><![CDATA[本期节目探索AI的最新突破。我们讨论了谷歌“量子回声”算法如何将计算速度提升1.3万倍，为新药研发提速。同时，深度解析拥有超强上下文记忆力的AI代理（如Kimi），它们能自行制定并执行数百个步骤的复杂计划。此外，还介绍了手机上的4K图像生成技术和能以假乱真的AI语音。最后，探讨了构建“人文主义超级智能”，确保AI安全并服务于人类社会，如无人机检查摩天大楼等实际应用。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1W-E1LrGnid7t7D58lyDKiAmCgNvZV61N" type="audio/mpeg" length="6415533" />
+      <guid isPermaLink="false">episode-2025-11-07-1762531775206</guid>
+      <pubDate>Fri, 07 Nov 2025 16:09:35 GMT</pubDate>
+      <itunes:duration>00:06:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-07.png" />
     </item>
   </channel>
 </rss>
