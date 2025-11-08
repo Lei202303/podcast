@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Fri, 07 Nov 2025 16:12:25 GMT</pubDate>
-    <lastBuildDate>Fri, 07 Nov 2025 16:12:25 GMT</lastBuildDate>
+    <pubDate>Sat, 08 Nov 2025 15:45:53 GMT</pubDate>
+    <lastBuildDate>Sat, 08 Nov 2025 15:45:53 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1325,6 +1325,17 @@
       <itunes:duration>00:06:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-07.png" />
+    </item>
+    <item>
+      <title>AI不再只是聊天工具：Google AI建筑师、表格超模与永不遗忘的嵌套学习系统</title>
+      <description><![CDATA[AI正在从聊天工具转变为自动执行任务的智能系统。本期聚焦五大突破：Google的AI建筑师小队如何协作开发应用；瞬间预测表格数据的超级模型TabPFN-2.5；解决“灾难性遗忘”的嵌套学习大脑；Anthropic如何通过代码优先通信将成本降低98%；以及让AI拥有超级侦探视力的“空间超感”技术。]]></description>
+      <itunes:summary><![CDATA[AI正在从聊天工具转变为自动执行任务的智能系统。本期聚焦五大突破：Google的AI建筑师小队如何协作开发应用；瞬间预测表格数据的超级模型TabPFN-2.5；解决“灾难性遗忘”的嵌套学习大脑；Anthropic如何通过代码优先通信将成本降低98%；以及让AI拥有超级侦探视力的“空间超感”技术。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1OyhIoyIOodzdiaTGyXovdT43X7z8wxD3" type="audio/mpeg" length="6538413" />
+      <guid isPermaLink="false">episode-2025-11-08-1762616553429</guid>
+      <pubDate>Sat, 08 Nov 2025 15:42:33 GMT</pubDate>
+      <itunes:duration>00:06:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-08.png" />
     </item>
   </channel>
 </rss>
