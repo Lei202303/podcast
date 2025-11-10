@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Sun, 09 Nov 2025 15:35:23 GMT</pubDate>
-    <lastBuildDate>Sun, 09 Nov 2025 15:35:23 GMT</lastBuildDate>
+    <pubDate>Mon, 10 Nov 2025 15:54:44 GMT</pubDate>
+    <lastBuildDate>Mon, 10 Nov 2025 15:54:44 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1347,6 +1347,17 @@
       <itunes:duration>00:04:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-09.png" />
+    </item>
+    <item>
+      <title>AI大变身：钢铁侠机器人、廉价芯片与超级科学家的具身智能革命</title>
+      <description><![CDATA[本期探讨AI世界的最新变化。小鹏发布具身智能机器人“钢铁侠”，标志着AI有了身体。同时，特斯拉推动超低成本AI芯片，加速AI普及。我们还将关注AI如何成为能阅读1500篇论文的“超级科学家”和创意伙伴，以及AI发展面临的巨大能源挑战和网络安全策略“零信任”。]]></description>
+      <itunes:summary><![CDATA[本期探讨AI世界的最新变化。小鹏发布具身智能机器人“钢铁侠”，标志着AI有了身体。同时，特斯拉推动超低成本AI芯片，加速AI普及。我们还将关注AI如何成为能阅读1500篇论文的“超级科学家”和创意伙伴，以及AI发展面临的巨大能源挑战和网络安全策略“零信任”。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1IWGulV6uv7LJfjwjhCTXf4zfZ-lL-hih" type="audio/mpeg" length="6244269" />
+      <guid isPermaLink="false">episode-2025-11-10-1762789698907</guid>
+      <pubDate>Mon, 10 Nov 2025 15:48:18 GMT</pubDate>
+      <itunes:duration>00:06:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-10.png" />
     </item>
   </channel>
 </rss>
