@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Mon, 10 Nov 2025 15:54:44 GMT</pubDate>
-    <lastBuildDate>Mon, 10 Nov 2025 15:54:44 GMT</lastBuildDate>
+    <pubDate>Tue, 11 Nov 2025 16:00:38 GMT</pubDate>
+    <lastBuildDate>Tue, 11 Nov 2025 16:00:38 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1358,6 +1358,17 @@
       <itunes:duration>00:06:30</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-10.png" />
+    </item>
+    <item>
+      <title>AI新突破：能用电脑、听懂全球语言的超级助手</title>
+      <description><![CDATA[本期聚焦AI的全球大变身：AI现在能听懂超过1600种语言，变身万能翻译官。更酷的是，它获得了“数字手指”，能像人类一样操作电脑和手机界面。同时，AI的记忆力也飙升至256K字，具备处理巨量文件的能力。但这些超能力背后的“电老虎”挑战，正促使AI向更高效、更绿色的方向转型。]]></description>
+      <itunes:summary><![CDATA[本期聚焦AI的全球大变身：AI现在能听懂超过1600种语言，变身万能翻译官。更酷的是，它获得了“数字手指”，能像人类一样操作电脑和手机界面。同时，AI的记忆力也飙升至256K字，具备处理巨量文件的能力。但这些超能力背后的“电老虎”挑战，正促使AI向更高效、更绿色的方向转型。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vNiKASebVPEUOfWL4fM3bB6DKgoTwC_h" type="audio/mpeg" length="5745453" />
+      <guid isPermaLink="false">episode-2025-11-11-1762876578990</guid>
+      <pubDate>Tue, 11 Nov 2025 15:56:18 GMT</pubDate>
+      <itunes:duration>00:05:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-11.png" />
     </item>
   </channel>
 </rss>
