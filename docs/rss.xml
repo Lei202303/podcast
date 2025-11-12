@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Tue, 11 Nov 2025 16:00:38 GMT</pubDate>
-    <lastBuildDate>Tue, 11 Nov 2025 16:00:38 GMT</lastBuildDate>
+    <pubDate>Wed, 12 Nov 2025 15:56:39 GMT</pubDate>
+    <lastBuildDate>Wed, 12 Nov 2025 15:56:39 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1369,6 +1369,17 @@
       <itunes:duration>00:05:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-11.png" />
+    </item>
+    <item>
+      <title>苹果、Adobe和亚马逊的最新AI战报：从超级助理到变形金刚</title>
+      <description><![CDATA[本期节目聚焦全球AI实验室的最新进展。包括：AI语音速度提升三倍，苹果“超级代理人”实现实时翻译和运动指导。亚马逊用“深度舰队”管理百万机器人，提高仓库效率。此外，还介绍了Adobe的超逼真AI绘画能力，以及如何通过高质量数据构建可靠的医疗AI。未来科技将更自动化、更高效。]]></description>
+      <itunes:summary><![CDATA[本期节目聚焦全球AI实验室的最新进展。包括：AI语音速度提升三倍，苹果“超级代理人”实现实时翻译和运动指导。亚马逊用“深度舰队”管理百万机器人，提高仓库效率。此外，还介绍了Adobe的超逼真AI绘画能力，以及如何通过高质量数据构建可靠的医疗AI。未来科技将更自动化、更高效。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12HZwPuKzsSdw3F9K0HPt_q8So505iuJE" type="audio/mpeg" length="5885229" />
+      <guid isPermaLink="false">episode-2025-11-12-1762962780500</guid>
+      <pubDate>Wed, 12 Nov 2025 15:53:00 GMT</pubDate>
+      <itunes:duration>00:06:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-12.png" />
     </item>
   </channel>
 </rss>
