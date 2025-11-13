@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Wed, 12 Nov 2025 15:56:39 GMT</pubDate>
-    <lastBuildDate>Wed, 12 Nov 2025 15:56:39 GMT</lastBuildDate>
+    <pubDate>Thu, 13 Nov 2025 16:09:24 GMT</pubDate>
+    <lastBuildDate>Thu, 13 Nov 2025 16:09:24 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1380,6 +1380,17 @@
       <itunes:duration>00:06:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-12.png" />
+    </item>
+    <item>
+      <title>AI超级英雄解锁新技能：GPT-5.1深度思考与ERNIE超级透视眼</title>
+      <description><![CDATA[本集聚焦AI巨头的最新超级进化：中国的ERNIE模型获得“超级透视眼”能力，实现文字、影像的多模态融合理解；GPT-5.1则推出“即时”与“深度思考”双重人格模式。节目还介绍了AI在自动化会计、智能电视剪辑以及非语言疼痛检测方面的实际应用，并探讨了保障数字世界信任的“内容侦探”。]]></description>
+      <itunes:summary><![CDATA[本集聚焦AI巨头的最新超级进化：中国的ERNIE模型获得“超级透视眼”能力，实现文字、影像的多模态融合理解；GPT-5.1则推出“即时”与“深度思考”双重人格模式。节目还介绍了AI在自动化会计、智能电视剪辑以及非语言疼痛检测方面的实际应用，并探讨了保障数字世界信任的“内容侦探”。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=159NhPWA3jN0ikBXOcy_CghSGODxdNO33" type="audio/mpeg" length="6109869" />
+      <guid isPermaLink="false">episode-2025-11-13-1763049157341</guid>
+      <pubDate>Thu, 13 Nov 2025 15:52:37 GMT</pubDate>
+      <itunes:duration>00:06:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-13.png" />
     </item>
   </channel>
 </rss>
