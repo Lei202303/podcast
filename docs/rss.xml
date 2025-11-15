@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Fri, 14 Nov 2025 15:53:39 GMT</pubDate>
-    <lastBuildDate>Fri, 14 Nov 2025 15:53:39 GMT</lastBuildDate>
+    <pubDate>Sat, 15 Nov 2025 16:54:10 GMT</pubDate>
+    <lastBuildDate>Sat, 15 Nov 2025 16:54:10 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1402,6 +1402,17 @@
       <itunes:duration>00:06:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-14.png" />
+    </item>
+    <item>
+      <title>AI黑箱变透明：稀疏化、数字乐高与万亿基础设施竞赛</title>
+      <description><![CDATA[本期播客聚焦AI前沿进展。OpenAI通过“稀疏化”技术，将超大模型的连接线剪掉99.9%，使AI大脑变得透明、可解释，且体积缩小16倍，极大提升了AI安全性。同时，Google推出Opal工具，让非程序员也能用自然语言搭建复杂的AI应用。此外，多智能体“代理型AI小队”正在集结，目标是独立完成复杂项目。背后的万亿级数据中心投资，正为这场AI革命奠定物理基础。]]></description>
+      <itunes:summary><![CDATA[本期播客聚焦AI前沿进展。OpenAI通过“稀疏化”技术，将超大模型的连接线剪掉99.9%，使AI大脑变得透明、可解释，且体积缩小16倍，极大提升了AI安全性。同时，Google推出Opal工具，让非程序员也能用自然语言搭建复杂的AI应用。此外，多智能体“代理型AI小队”正在集结，目标是独立完成复杂项目。背后的万亿级数据中心投资，正为这场AI革命奠定物理基础。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18jz1hA9uCb8VOkd50gOISZttg-JYqgQO" type="audio/mpeg" length="5726253" />
+      <guid isPermaLink="false">episode-2025-11-15-1763221546029</guid>
+      <pubDate>Sat, 15 Nov 2025 15:45:46 GMT</pubDate>
+      <itunes:duration>00:05:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-15.png" />
     </item>
   </channel>
 </rss>
