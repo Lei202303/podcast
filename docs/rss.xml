@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Nov 2025 15:34:32 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2025 15:34:32 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2025 19:39:12 GMT</pubDate>
+    <lastBuildDate>Mon, 17 Nov 2025 19:39:12 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1433,6 +1433,17 @@
       <guid isPermaLink="false">episode-2025-11-17-1763393020790</guid>
       <pubDate>Mon, 17 Nov 2025 15:23:40 GMT</pubDate>
       <itunes:duration>00:04:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-17.png" />
+    </item>
+    <item>
+      <title>通用超级玩家SIMA 2、手机AI魔法和超长记忆：科技巨头的AI竞赛与未来生活</title>
+      <description><![CDATA[本期节目聚焦AI世界的最新进展。谷歌DeepMind推出SIMA 2，实现了通用游戏AI；三星将“Nano Banana”AI艺术工具带入手机。我们解析AI的超长记忆和多模态感官如何赋能金融和法律界。同时，AI正成为城市交通指挥家和信息搜索的数字侦探，并且在竞争推动下变得更具同理心和友善。]]></description>
+      <itunes:summary><![CDATA[本期节目聚焦AI世界的最新进展。谷歌DeepMind推出SIMA 2，实现了通用游戏AI；三星将“Nano Banana”AI艺术工具带入手机。我们解析AI的超长记忆和多模态感官如何赋能金融和法律界。同时，AI正成为城市交通指挥家和信息搜索的数字侦探，并且在竞争推动下变得更具同理心和友善。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DTp-Vx_VxyczRyK1mtDqodGTgLyAh9ni" type="audio/mpeg" length="5962029" />
+      <guid isPermaLink="false">episode-2025-11-17-1763408057022</guid>
+      <pubDate>Mon, 17 Nov 2025 19:34:17 GMT</pubDate>
+      <itunes:duration>00:06:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-17.png" />
     </item>
