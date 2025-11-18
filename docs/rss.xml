@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Mon, 17 Nov 2025 19:39:12 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2025 19:39:12 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Nov 2025 16:43:13 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Nov 2025 16:43:13 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1446,6 +1446,17 @@
       <itunes:duration>00:06:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-17.png" />
+    </item>
+    <item>
+      <title>AI爆炸式增长：全能“欧姆尼”、8倍速天气预报与工厂数字保镖</title>
+      <description><![CDATA[AI正以前所未有的速度发展。本期介绍“混合专家”（MoE）架构如何催生全能模型“Omni”，实现文字、图像、声音的多模态处理。同时，Google DeepMind发布的WeatherNext 2能以8倍速预测混沌天气，提供更精确的概率预报。此外，AI已深入日常生活，成为工厂的安全总管，并被科技巨头大规模部署，预示着AI助手将成为未来的核心工具。]]></description>
+      <itunes:summary><![CDATA[AI正以前所未有的速度发展。本期介绍“混合专家”（MoE）架构如何催生全能模型“Omni”，实现文字、图像、声音的多模态处理。同时，Google DeepMind发布的WeatherNext 2能以8倍速预测混沌天气，提供更精确的概率预报。此外，AI已深入日常生活，成为工厂的安全总管，并被科技巨头大规模部署，预示着AI助手将成为未来的核心工具。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UGBTxiPQhdLD9QRj8ZKMBblce46KCaza" type="audio/mpeg" length="5344941" />
+      <guid isPermaLink="false">episode-2025-11-18-1763483827835</guid>
+      <pubDate>Tue, 18 Nov 2025 16:37:07 GMT</pubDate>
+      <itunes:duration>00:05:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-18.png" />
     </item>
   </channel>
 </rss>
