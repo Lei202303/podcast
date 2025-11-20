@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Wed, 19 Nov 2025 15:52:44 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Nov 2025 15:52:44 GMT</lastBuildDate>
+    <pubDate>Thu, 20 Nov 2025 15:47:30 GMT</pubDate>
+    <lastBuildDate>Thu, 20 Nov 2025 15:47:30 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1468,6 +1468,17 @@
       <itunes:duration>00:05:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-19.png" />
+    </item>
+    <item>
+      <title>AI变身工厂大脑、口袋助理和代码建筑师：数字孪生与谷歌“反重力”</title>
+      <description><![CDATA[本期聚焦AI前沿：工厂利用“数字孪生”让AI在虚拟世界优化生产。针对能耗，日本推出“口袋版”AI大脑实现本地化运行。谷歌发布编程神器“反重力”（Antigravity），将写代码转变为创意指挥。同时，会通过文字和照片生成逼真视频的AI导演Ovi也取得惊人进步。AI正变得更强更小巧，引领未来创造的新浪潮。]]></description>
+      <itunes:summary><![CDATA[本期聚焦AI前沿：工厂利用“数字孪生”让AI在虚拟世界优化生产。针对能耗，日本推出“口袋版”AI大脑实现本地化运行。谷歌发布编程神器“反重力”（Antigravity），将写代码转变为创意指挥。同时，会通过文字和照片生成逼真视频的AI导演Ovi也取得惊人进步。AI正变得更强更小巧，引领未来创造的新浪潮。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1To7nVjmFa2dQZMS4Q4EjkO7V31eo3Pqg" type="audio/mpeg" length="4527789" />
+      <guid isPermaLink="false">episode-2025-11-20-1763652843237</guid>
+      <pubDate>Thu, 20 Nov 2025 15:34:03 GMT</pubDate>
+      <itunes:duration>00:04:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-20.png" />
     </item>
   </channel>
 </rss>
