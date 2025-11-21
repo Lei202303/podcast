@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Thu, 20 Nov 2025 15:47:30 GMT</pubDate>
-    <lastBuildDate>Thu, 20 Nov 2025 15:47:30 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Nov 2025 15:37:15 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Nov 2025 15:37:15 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1479,6 +1479,17 @@
       <itunes:duration>00:04:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-20.png" />
+    </item>
+    <item>
+      <title>SAM 3魔法剪刀问世：从AI自学成才到开源大模型的分享精神</title>
+      <description><![CDATA[本期探索AI世界的最新进展。Meta的SAM 3像一把“魔法剪刀”，能精准分割图片和视频内容。AI通过SPICE方法实现自我学习，并迅速成为超级学霸。同时，AI2开源了Olmo 3大模型的“制造说明书”，促进全球AI技术共享。从智能创可贴到AI视频创作，AI正以前所未有的速度改变我们的生活。]]></description>
+      <itunes:summary><![CDATA[本期探索AI世界的最新进展。Meta的SAM 3像一把“魔法剪刀”，能精准分割图片和视频内容。AI通过SPICE方法实现自我学习，并迅速成为超级学霸。同时，AI2开源了Olmo 3大模型的“制造说明书”，促进全球AI技术共享。从智能创可贴到AI视频创作，AI正以前所未有的速度改变我们的生活。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MN8n-7-fXuiwQX01qBt---8oFBA8gbsd" type="audio/mpeg" length="4604589" />
+      <guid isPermaLink="false">episode-2025-11-21-1763739145656</guid>
+      <pubDate>Fri, 21 Nov 2025 15:32:25 GMT</pubDate>
+      <itunes:duration>00:04:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-21.png" />
     </item>
   </channel>
 </rss>
