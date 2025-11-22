@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Fri, 21 Nov 2025 15:37:15 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Nov 2025 15:37:15 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Nov 2025 15:28:13 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Nov 2025 15:28:13 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1490,6 +1490,17 @@
       <itunes:duration>00:04:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-21.png" />
+    </item>
+    <item>
+      <title>Meta创生3D世界，谷歌AI解决充电焦虑：探索未来科技的魔法工具箱。</title>
+      <description><![CDATA[本期深入AI前沿：Meta发布“世界创生”AI，只需文本指令即可瞬间生成可交互的3D虚拟世界。谷歌推出高精度AI画家，让艺术创作更便捷。更实用的是，谷歌AI还能预测电动汽车充电站的空位，有效缓解用户的充电焦虑。AI正成为我们创造世界的超级工具箱。]]></description>
+      <itunes:summary><![CDATA[本期深入AI前沿：Meta发布“世界创生”AI，只需文本指令即可瞬间生成可交互的3D虚拟世界。谷歌推出高精度AI画家，让艺术创作更便捷。更实用的是，谷歌AI还能预测电动汽车充电站的空位，有效缓解用户的充电焦虑。AI正成为我们创造世界的超级工具箱。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1sV2xvTvVZHEiVkeTwRMttgXekh9e6WiD" type="audio/mpeg" length="5351469" />
+      <guid isPermaLink="false">episode-2025-11-22-1763825072920</guid>
+      <pubDate>Sat, 22 Nov 2025 15:24:32 GMT</pubDate>
+      <itunes:duration>00:05:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-22.png" />
     </item>
   </channel>
 </rss>
