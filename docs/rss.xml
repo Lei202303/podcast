@@ -9,8 +9,8 @@
     <description><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></description>
     <itunes:summary><![CDATA[欢迎来到 AI探险家，这里是8-15岁小朋友和少年们的未来探索乐园！🤖✨每一期，我们都会用好听、好玩的故事，带你走进最新的AI世界。你会听到聪明的机器人、会画画的电脑、像小侦探一样的AI助手……还有好多“未来大公司”正在投资的神奇科技！别担心，这里没有枯燥的技术名词，只有充满想象力的故事和小脑洞！快来一起变身小小AI探险家，看看未来会有多酷吧！🚀🔭]]></itunes:summary>
     <language>zh-CN</language>
-    <pubDate>Sat, 22 Nov 2025 15:28:13 GMT</pubDate>
-    <lastBuildDate>Sat, 22 Nov 2025 15:28:13 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Nov 2025 15:32:37 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Nov 2025 15:32:37 GMT</lastBuildDate>
 
     <itunes:author>智趣AI时间</itunes:author>
     <itunes:owner>
@@ -1501,6 +1501,17 @@
       <itunes:duration>00:05:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-22.png" />
+    </item>
+    <item>
+      <title>AI进化三部曲：学习加速、团队协作与迷你化BERT的秘密</title>
+      <description><![CDATA[今天的AI世界正经历着飞速进化。科学家发明了“先知”（Seer）系统，让AI学习速度提升近一倍，解决了训练中的“排队”问题。多智能体系统兴起，AI小队通过分工协作（如行动派、智慧派、总指挥官）完成复杂任务。最后，以BERT为代表的语言模型正朝着“又小又强”的方向发展，以便能部署到手机等边缘设备中。]]></description>
+      <itunes:summary><![CDATA[今天的AI世界正经历着飞速进化。科学家发明了“先知”（Seer）系统，让AI学习速度提升近一倍，解决了训练中的“排队”问题。多智能体系统兴起，AI小队通过分工协作（如行动派、智慧派、总指挥官）完成复杂任务。最后，以BERT为代表的语言模型正朝着“又小又强”的方向发展，以便能部署到手机等边缘设备中。]]></itunes:summary>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=100gCYxzcDFl86hQhBmOUg60T4lGWumgf" type="audio/mpeg" length="4264749" />
+      <guid isPermaLink="false">episode-2025-11-23-1763911632351</guid>
+      <pubDate>Sun, 23 Nov 2025 15:27:12 GMT</pubDate>
+      <itunes:duration>00:04:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://lei202303.github.io/podcast/docs/pic/rag_2025-11-23.png" />
     </item>
   </channel>
 </rss>
